@@ -42,3 +42,14 @@
 
 `[g]`："ge" **g/gg** `go` `glad` `bigger`/浊辅音
 
+## [ɒ]vs[ɔ:]
+
+`[ɒ]`："o" **o/a** `Oxford` `copy` `watch`/短元音
+
+`[ɔ:]`："o..." **a/ar/ough** `call` `warm` `bought`/长元音
+
+## [f]vs[v]
+
+`[f]`："fu" **f/ff/ph/gh** `leaf` `office` `photo` `laugh`/清辅音
+
+`[v]`："vu.." **v** `vote` `visit`/浊辅音
