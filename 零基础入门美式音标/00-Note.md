@@ -85,3 +85,29 @@ see  [si:]  辅音[s] + 元音[i:]
 if      [If]    元音[I] + 辅音[f]
 
 tip   [tIp]  辅音[t] + 元音[I]  +  辅音[P]
+
+# 07
+
+# [ə]vs[ɜ:]
+
+`[ə]`："e" **a/o/u/e** `ago` `campus` `mother`/短元音
+
+`[ɜ:]`："e.." **o/u/e** `worse` `lurk` `service`/长元音
+
+# [s]vs[z]
+
+`[s]`："si" **s/c** `bus` `city` `miss`/清辅音
+
+`[z]`："ri" **s/z** `noise` `zoo` `scissors` `jazz`/浊辅音
+
+# [ʃ]vs[ʒ]
+
+`[ʃ]`："she" **sh** `shop` `lash` `wash`/清辅音
+
+`[ʒ]`："decision" **s/si** `vision` `television`/浊辅音
+
+![image-20230802225632381](assets/00-Note/image-20230802225632381.png)
+
+![image-20230802225649034](assets/00-Note/image-20230802225649034.png)
+
+![image-20230802225702079](assets/00-Note/image-20230802225702079.png)

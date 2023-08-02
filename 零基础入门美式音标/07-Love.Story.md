@@ -4,25 +4,25 @@
 
 `[ɜ:]`："e.."
 
-![image-20230802220105399](assets/07-Love.Story/image-20230802220105399.png)
+![image-20230802224439515](assets/07-Love.Story/image-20230802224439515.png)
 
-![image-20230802220128376](assets/07-Love.Story/image-20230802220128376.png)
+![image-20230802224455958](assets/07-Love.Story/image-20230802224455958.png)
 
-![image-20230802220150458](assets/07-Love.Story/image-20230802220150458.png)
+![image-20230802224507414](assets/07-Love.Story/image-20230802224507414.png)
 
-![image-20230802220206774](assets/07-Love.Story/image-20230802220206774.png)
+![image-20230802224522377](assets/07-Love.Story/image-20230802224522377.png)
 
-![image-20230802220233932](assets/07-Love.Story/image-20230802220233932.png)
+![image-20230802224539635](assets/07-Love.Story/image-20230802224539635.png)
 
-![image-20230802220256366](assets/07-Love.Story/image-20230802220256366.png)
+![image-20230802224553887](assets/07-Love.Story/image-20230802224553887.png)
 
-![image-20230802220549599](assets/07-Love.Story/image-20230802220549599.png)
+![image-20230802224606226](assets/07-Love.Story/image-20230802224606226.png)
 
-![image-20230802220607229](assets/07-Love.Story/image-20230802220607229.png)
+![image-20230802224618605](assets/07-Love.Story/image-20230802224618605.png)
 
-![image-20230802220625380](assets/07-Love.Story/image-20230802220625380.png)
+![image-20230802224636786](assets/07-Love.Story/image-20230802224636786.png)
 
-![image-20230802220651020](assets/07-Love.Story/image-20230802220651020.png)
+
 
 # [s]vs[z]
 
@@ -30,7 +30,7 @@
 
 `[z]`："ri"
 
-![image-20230802220815260](assets/07-Love.Story/image-20230802220815260.png)
+![image-20230802224708549](assets/07-Love.Story/image-20230802224708549.png)
 
 # [ʃ]vs[ʒ]
 
@@ -38,26 +38,26 @@
 
 `[ʒ]`："decision"
 
-![image-20230802221030640](assets/07-Love.Story/image-20230802221030640.png)
+![image-20230802224731772](assets/07-Love.Story/image-20230802224731772.png)
 
-![image-20230802221103779](assets/07-Love.Story/image-20230802221103779.png)
+![image-20230802224746869](assets/07-Love.Story/image-20230802224746869.png)
 
-![image-20230802221124198](assets/07-Love.Story/image-20230802221124198.png)
+![image-20230802224807729](assets/07-Love.Story/image-20230802224807729.png)
 
-![image-20230802221140591](assets/07-Love.Story/image-20230802221140591.png)
+![image-20230802224821998](assets/07-Love.Story/image-20230802224821998.png)
 
-![image-20230802221203899](assets/07-Love.Story/image-20230802221203899.png)
+![image-20230802224840355](assets/07-Love.Story/image-20230802224840355.png)
 
-![image-20230802221219286](assets/07-Love.Story/image-20230802221219286.png)
+![image-20230802224853768](assets/07-Love.Story/image-20230802224853768.png)
 
-![image-20230802221232361](assets/07-Love.Story/image-20230802221232361.png)
+![image-20230802224907563](assets/07-Love.Story/image-20230802224907563.png)
 
-![image-20230802221246056](assets/07-Love.Story/image-20230802221246056.png)
+![image-20230802224920601](assets/07-Love.Story/image-20230802224920601.png)
 
-![image-20230802221302039](assets/07-Love.Story/image-20230802221302039.png)
+![image-20230802224939766](assets/07-Love.Story/image-20230802224939766.png)
 
-![image-20230802221316232](assets/07-Love.Story/image-20230802221316232.png)
+![image-20230802224956440](assets/07-Love.Story/image-20230802224956440.png)
 
-![image-20230802221336903](assets/07-Love.Story/image-20230802221336903.png)
+![image-20230802225016335](assets/07-Love.Story/image-20230802225016335.png)
 
-![image-20230802221350911](assets/07-Love.Story/image-20230802221350911.png)
+![image-20230802225025796](assets/07-Love.Story/image-20230802225025796.png)
