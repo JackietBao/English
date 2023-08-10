@@ -70,7 +70,7 @@
 
 `[ð]`： **th** `then` `they` `mother` `father`/浊辅音
 
-# 音节
+**音节**
 
 一盒单词可以划分成1个或多个音节。
 
@@ -88,19 +88,19 @@ tip   [tIp]  辅音[t] + 元音[I]  +  辅音[P]
 
 # 07
 
-# [ə]vs[ɜ:]
+## [ə]vs[ɜ:]
 
 `[ə]`："e" **a/o/u/e** `ago` `campus` `mother`/短元音
 
 `[ɜ:]`："e.." **o/u/e** `worse` `lurk` `service`/长元音
 
-# [s]vs[z]
+## [s]vs[z]
 
 `[s]`："si" **s/c** `bus` `city` `miss`/清辅音
 
 `[z]`："ri" **s/z** `noise` `zoo` `scissors` `jazz`/浊辅音
 
-# [ʃ]vs[ʒ]
+## [ʃ]vs[ʒ]
 
 `[ʃ]`："she" **sh** `shop` `lash` `wash`/清辅音
 
@@ -111,3 +111,57 @@ tip   [tIp]  辅音[t] + 元音[I]  +  辅音[P]
 ![image-20230802225649034](assets/00-Note/image-20230802225649034.png)
 
 ![image-20230802225702079](assets/00-Note/image-20230802225702079.png)
+
+# 08
+
+## [ɪə]vs[eə]
+
+`[ɪə]`："yi e" **ea/ee** `hear` `beer`/双元音
+
+`[eə]`："ei e" **ai/ea/ere** `fair` `wear` `where`/双元音
+
+## [aɪ]vs[eɪ]
+
+`[aɪ]`："ai" **igh/uy/ie** `tide` `fly` `high` `buy` `tie`/双元音
+
+`[eɪ]`："ei" **ai/ay/ea/eigh/ey** `table` `say` `say` `great` `eight` `hey`/双元音
+
+## [ɒɪ]vs[ʊə]
+
+`[ɒɪ]`："o yi" **oi/oy** `soil` `toy`/双元音
+
+`[ʊə]`："wu e" **oor/our** `poor` `tour`/双元音
+
+## [aʊ]vs[əʊ]
+
+`[aʊ]`："a wu" **ow/ou** `down` `ground` `mouth`/双元音
+
+`[əʊ]`："e wu" **o/ow/oa** `no` `low` `boat`/双元音
+
+开音节/闭音节**
+
+26个字母中：
+
+元音字母：a, e, i, o, u
+
+辅音字母：其他
+
+**开音节**
+
+(1)以发音的元音字母结尾的音节。
+
+be, he, so, also, photo
+
+(2)以辅音字母(r除外) + 不发音的e结尾的音节。
+
+date, make, like;
+
+在重读的开音节中元音字母按字母名称读音。
+
+**闭音节**
+
+以一个或几个辅音字母(r除外)结尾
+
+而中间只有一个元音字母的音节，称为闭音节。
+
+tip, is, desk, drink;
