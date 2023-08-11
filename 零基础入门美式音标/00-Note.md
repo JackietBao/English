@@ -165,3 +165,21 @@ date, make, like;
 而中间只有一个元音字母的音节，称为闭音节。
 
 tip, is, desk, drink;
+
+# 09
+
+## [tʃ]vs[dʒ]
+
+`[tʃ]`："chi" **t/ch/tch** `nature` `chat` `catch`/清辅音
+
+`[dʒ]`："zhi" **i/g/ge/dge** `jam` `germ` `large` `bridge`/浊辅音
+
+## [tr]vs[dr]
+
+`[tr]`："chu" **tr** `tree` `train` `trust`/清辅音
+
+`[dr]`： "zho" **dr** `drug` `dry` `drop`/浊辅音
+
+**辅音浊化**
+
+S + 清辅音 + 一个元音音素(同一音节内)，无论那个清辅音是在单词的最前面还是中间，只要是在重读音节(次重读音节)里，一般都读成对浊辅音。
