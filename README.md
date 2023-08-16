@@ -5,7 +5,7 @@
 
 ![image-20230718203024268](assets/README/image-20230718203024268.png)
 
-# 01
+# [01](https://github.com/GeekyJack/English/blob/main/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E7%BE%8E%E5%BC%8F%E9%9F%B3%E6%A0%87/02-A.Big.Piece.of.Pizza%EF%BC%81.md)
 
 ## [I] VS [i]
 
@@ -19,7 +19,7 @@
 
 `[b]`：''be'' **b/bb** `rubber`/浊辅音
 
-# 02
+# [02](https://github.com/GeekyJack/English/blob/main/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E7%BE%8E%E5%BC%8F%E9%9F%B3%E6%A0%87/03-How.to.Cook.Food.md)
 
 ## [ʊ]vs[u:]
 
@@ -33,7 +33,7 @@
 
 `[d]`："en.de" **d/dd/tt** `food` `middle`/浊辅音
 
-# 03
+# [03](https://github.com/GeekyJack/English/blob/main/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E7%BE%8E%E5%BC%8F%E9%9F%B3%E6%A0%87/04-Mr.Hart%E2%80%98s.Hut.md)
 
 ## [ʌ]vs[ɑ:]
 
@@ -47,7 +47,7 @@
 
 `[g]`："ge" **g/gg** `go` `glad` `bigger`/浊辅音
 
-# 04
+# [04](https://github.com/GeekyJack/English/blob/main/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E7%BE%8E%E5%BC%8F%E9%9F%B3%E6%A0%87/05-Caffe.or.Vodka.md)
 
 ## [ɒ]vs[ɔ:]
 
@@ -61,7 +61,7 @@
 
 `[v]`："vu.." **v** `vote` `visit`/浊辅音
 
-# 05
+# [05](https://github.com/GeekyJack/English/blob/main/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E7%BE%8E%E5%BC%8F%E9%9F%B3%E6%A0%87/06-A.Hat.For.My.Hat.md)
 
 ## [e]vs[æ]
 
@@ -91,7 +91,7 @@ if      [If]    元音[I] + 辅音[f]
 
 tip   [tIp]  辅音[t] + 元音[I]  +  辅音[P]
 
-# 07
+# [07](https://github.com/GeekyJack/English/blob/main/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E7%BE%8E%E5%BC%8F%E9%9F%B3%E6%A0%87/07-Love.Story.md)
 
 ## [ə]vs[ɜ:]
 
@@ -117,7 +117,7 @@ tip   [tIp]  辅音[t] + 元音[I]  +  辅音[P]
 
 ![image-20230802225702079](assets/README/image-20230802225702079.png)
 
-# 08
+# [08](https://github.com/GeekyJack/English/blob/main/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E7%BE%8E%E5%BC%8F%E9%9F%B3%E6%A0%87/08-A.Bad.Liar.md)
 
 ## [ɪə]vs[eə]
 
@@ -171,7 +171,7 @@ date, make, like;
 
 tip, is, desk, drink;
 
-# 09
+# [09](https://github.com/GeekyJack/English/blob/main/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E7%BE%8E%E5%BC%8F%E9%9F%B3%E6%A0%87/09-The.Dress.For.The.Party.md)
 
 ## [tʃ]vs[dʒ]
 
@@ -189,7 +189,7 @@ tip, is, desk, drink;
 
 S + 清辅音 + 一个元音音素(同一音节内)，无论那个清辅音是在单词的最前面还是中间，只要是在重读音节(次重读音节)里，一般都读成对浊辅音。
 
-# 10
+# [10](https://github.com/GeekyJack/English/blob/main/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E7%BE%8E%E5%BC%8F%E9%9F%B3%E6%A0%87/10-My.Naughty.Classmate.md)
 
 ## [m]vs[n]vs[ŋ]
 
@@ -205,7 +205,7 @@ S + 清辅音 + 一个元音音素(同一音节内)，无论那个清辅音是�
 
 前一个单词词尾的辅音音素 + 后一个单词词首的元音音素
 
-# 11
+# [11](https://github.com/GeekyJack/English/blob/main/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E7%BE%8E%E5%BC%8F%E9%9F%B3%E6%A0%87/11-All.About.Christmas.md)
 
 ## [ǀ]vs[r]
 
@@ -244,6 +244,8 @@ S + 清辅音 + 一个元音音素(同一音节内)，无论那个清辅音是�
 [m]、[n]、[ŋ]、[I]   =   不完全爆破(轻微爆破)
 
 (前者只做口型，马上过度到后面的音)
+
+# [12](https://github.com/GeekyJack/English/blob/main/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E7%BE%8E%E5%BC%8F%E9%9F%B3%E6%A0%87/12-A.Holiday.Trip.md)
 
 ## [h]vs[w]vs[j]
 
