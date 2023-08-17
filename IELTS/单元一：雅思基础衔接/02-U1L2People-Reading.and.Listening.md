@@ -1,0 +1,1 @@
+![image-20230816213647315](assets/02-U1L2People-Reading.and.Listening/image-20230816213647315.png)
