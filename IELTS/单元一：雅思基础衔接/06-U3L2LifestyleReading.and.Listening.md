@@ -1,0 +1,1 @@
+![image-20230819165525549](assets/06-U3L2LifestyleReading.and.Listening/image-20230819165525549.png)
