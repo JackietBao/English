@@ -52,3 +52,38 @@ She is from Turkey.              Is she from Turkey?
 You are from London.             Are you from London?
 ```
 
+
+
+句型
+
+```
+He lives in Shanghai in China.
+He lives with his family.
+Tom ives with his mother, and his sister.
+Tom is the tallest man in the world.
+Jack works on the SGM.
+People look at him in the SGM.
+Normal clothes and shoes are too small.
+He went to Shanghai，Wuhan in China in 2023.
+```
+
+
+
+```
+Read the text again. 
+Write the correct words from the text in the gaps.
+Write the words from the box in the correct places in the table below.
+```
+
+
+
+介绍家庭成员
+
+```
+He is a father. 
+He lives with his family. 
+He is a security inspector. 
+He likes doughnut. 
+He likes beer and TV. 
+```
+
