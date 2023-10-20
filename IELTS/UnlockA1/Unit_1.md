@@ -87,3 +87,21 @@ He likes doughnut.
 He likes beer and TV. 
 ```
 
+
+
+句型
+
+```
+My city is famous for its university.
+```
+
+
+
+For some words, the first letter is always a capital letter.
+
+```
+Names of people: My brother's name is Orhan.
+Names of places: Istanbul is a big city in Turkey.
+The pronoun I: I have two sisters.
+```
+
