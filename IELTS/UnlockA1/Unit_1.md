@@ -59,7 +59,7 @@ You are from London.             Are you from London?
 ```
 He lives in Shanghai in China.
 He lives with his family.
-Tom ives with his mother, and his sister.
+Tom lives with his mother, and his sister.
 Tom is the tallest man in the world.
 Jack works on the SGM.
 People look at him in the SGM.
