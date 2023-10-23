@@ -4,7 +4,7 @@
 It's cold in London. 
 Shanghai's hot in July.
 Canada has a lot of snow in winter.
-We get snow when is's cold here.
+We get snow when It's cold here.
 I like to stay at home when there is snow outside.
 ```
 
