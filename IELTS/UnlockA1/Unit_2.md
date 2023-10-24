@@ -91,6 +91,141 @@ Altan: Hello, everybody! OK, so, I'm Altan. I'm from Samsun. Uh, Samsun is in Tu
 
 
 
+There be句型
+
+```
+There's sand. There's snow outside.
+There's a beautiful beach. There's a lot of snow.
+here are people on the beach. There are rocks.
+```
+
+
+
+肯定句
+
+```
+There is + 单数名词 / 不可数名词
+There are + 复数名词 
+```
+
+
+
+否定句
+
+```
+There's no sand. / There isn't any sand.
+There are no people on the beach. / There aren't any people on the beach.
+```
+
+
+
+```
+There is not = There isn't any + 单数名词 / 不可数名词
+There are not = There aren't any + 复数名词 
+There is no + 单数名词 / 不可数名词
+There are no + 复数名词 
+```
+
+
+
+疑问句
+
+```
+Is there a forest there?
+Is there a forest there?
+Are there any people on the beach?
+```
+
+
+
+```
+Is there + 单数名词 / 不可数名词 +？
+Are there + 复数名词 +？
+```
+
+
+
+句子
+
+```
+It's sunny in the photograph.
+It's windy.
+There's a big mountain.
+The people are happy.
+There's a big forest.
+It's a rainy day.
+```
+
+
+
+```
+I'm Turkish. He's cold. It's windy.
+I'm an English teacher. It's a sunny day.
+There are white clouds in the sky.
+```
+
+
+
+```
+You are going to use the internet to find photographs of a landscape.
+Choose a country you would like to visit.
+```
+
+
+
+```
+Hello everybody! 
+I'm _______ (your name). 
+I'm from _______ (your town). 
+______ (your town) is in ______(your country).
+
+OK, so, I'm going to talk about two photographs of a place in _____(season). Here's my first photograph.
+```
+
+
+
+The Coldest City in the World 
+
+```
+The temperature in your freezer is about -18℃. Yakutsk in Russia is colder than your freezer. In winter, the average temperature is -42℃!
+
+In 2012, I visited Yakutsk. Why? Because I wanted to see the coldest city in the world. I wanted to meet the people of Yakutsk.
+
+'Life is difficult in winter,' says Svetlana, 'but we're not sad.' Svetlana is the manager of a café in Yakutsk. She has two children. Her son Pavel is 11. Her daughter Daria is 5.
+
+'The average temperature in winter is -42℃ . Some winters are colder. At -50℃, the kindergarten and the school are closed. Daria and Pavel are happy,' Svetlana says.
+
+People in Yakutsk like sport. In spring and autumn, the average temperature is -21℃. They go skiing and ice-skating. In summer, it is warm. The average temperature is +20℃. They have picnics in the forests.
+```
+
+
+
+句子
+
+```
+Winter is very cold in Yakutsk.
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
