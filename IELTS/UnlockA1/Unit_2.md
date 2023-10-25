@@ -159,7 +159,7 @@ It's a rainy day.
 
 
 ```
-I'm Turkish. He's cold. It's windy.
+I'm Turkish. There's cold. It's windy.
 I'm an English teacher. It's a sunny day.
 There are white clouds in the sky.
 ```
@@ -208,25 +208,152 @@ Winter is very cold in Yakutsk.
 
 
 
+CUBA WEATHER
+
+```
+Cuba is in the Caribbean. The climate in 
+Cuba is good. It has two seasons: the dry 
+season and the rainy season. The dry season 
+and the rainy season last for six months.The 
+dry season is from November to April. 
+
+The average temperatures are between 22℃ 
+and 25℃ in the dry season. It is windy in the 
+dry season.
+
+The rainy season is from May to October. In 
+the rainy season, the average temperatures 
+are between 26℃ and 28℃. The average 
+rainfall in the rainy season is 146 mm.
+
+The best time to visit Cuba is April or May.
+```
 
 
 
+句子
+
+```
+The man is tall.
+The room is cold.
+The climate is good.
+He is a tall man.
+This is a cold room.
+Spain has a good climate.
+Egypt has dry weather.
+The average rainfall is 62mm.
+```
 
 
 
+```
+Cuba has a good climate.
+I have a happy family. 
+In summer, we have good weather. 
+The dry season is from June to November. 
+The average rainfall is 78 mm in spring. 
+```
 
 
 
+The Weather in Ulaanbaatar
+
+```
+Ulaanbaatar is in Mongolia. Ulaanbaatar has four 
+seasons. The seasons are winter, spring, summer 
+and autumn.
+Winter is from December to February. Winters are cold in Ulaanbaatar. The 
+average temperatures are from -16 ℃ to -22 ℃. In winter, the average rainfall 
+is from 1.1 mm to 2.5 mm.
+Summer is from June to August. Summers are warm in Ulaanbaatar. In summer, 
+the average temperatures are from +15 ℃ to +19 ℃. It is very rainy in summer. 
+The average rainfall is from 42 mm to 58 mm.
+```
 
 
 
+句子
+
+```
+I am from Beijing.
+She is a student.
+It is sunny.
+My father is old. 
+Yakutsk is in Russia.
+The weather is cold.
+The average rainfall is 21 mm. 
+Typical teenagers are students.
+```
 
 
 
+★ Type 1: a preposition + a noun for a place
+
+```
+My brother lives in Abu Dhabi.
+My sister is a student in Tai Pei. 
+I am from Ankara.
+```
 
 
 
+★ Type 2: a preposition + a noun for a season or a month.
 
+```
+It is warm in summer. 
+It is cold in January.
+```
+
+
+
+句子
+
+```
+It is cold in New York in winter.
+In July,the average rainfall is 6 mm.
+The average rainfall is 360 mm in the monsoon season.
+```
+
+
+
+```
+In January, the weather is cold in Russia.
+The average temperature is 21℃ in July.
+In the monsoon season, the average rainfall is 315 mm in Bangalore in India.
+The weather is sunny on Tuesday.
+Sultan lives in Sharjah in the United Arab Emirates.
+```
+
+
+
+```
+Shanghai is in China. 
+Shanghai has four seasons. 
+The seasons are spring, summer, autumn and winter.
+```
+
+
+
+```
+Spring is from March to May. 
+Springs are warm in Shanghai. The average temperature is 15 ℃.
+It is rainy in spring. The average rainfall is 105 mm. 
+```
+
+
+
+The Weather in Shanghai
+
+```
+Shanghai is in China. Shanghai has four seasons. The seasons are 
+winter, spring, summer and autumn.
+Spring is from March to May. Springs are warm in Shanghai. The 
+average temperature is 15 ℃. It is rainy in spring. The average 
+rainfall is 105 mm. 
+Summer is from June to August. Summers are hot in Shanghai. The 
+average temperature is 25 ℃. It is rainy in summer. The average 
+rainfall is 138 mm. 
+```
 
 
 
