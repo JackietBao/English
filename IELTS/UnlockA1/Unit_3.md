@@ -254,41 +254,127 @@ and family."
 
 
 
+句子
+
+```
+1) I like reading books, not watching movies. I like to imagine 
+     how the people look in the story.
+```
 
 
 
+```
+2) Pizza is a traditional meal in Italy.
+```
 
 
 
+```
+3) His daughters are different. Hande is tall but Adile is short.
+```
 
 
 
+```
+4) I love this book! The story is amazing!
+```
 
 
 
+文章
+
+```
+Kombai men hunt in the jungle. They can hunt 
+in the jungle for 12 hours. They bring meat to 
+the village. The Kombai also eat cucumbers, 
+mushrooms and green bananas. The women 
+cook. There is no school for the children. 
+Parents teach their children the traditional 
+lifestyle of their people.
+```
 
 
 
+```
+The most important part of Kombai life is 
+building their amazing tree houses. The men, 
+women and children all help to build a tree 
+house. Each house is 20m high. The stories of 
+the Kombai people are amazing.
+```
 
 
 
+Facts about the lifestyle :
+
+```
+1. Who are you?
+2. What subjects do you study?
+3. When are your classes?
+4. When do you go to the library?
+5. When do you relax with friends?
+```
 
 
 
+```
+1. I am a student. I live in London. Abdullah is my friend.
+2. I study English. Abdullah studys physics and maths.
+3. My classes are from Monday to Friday.
+     His classes are from Sunday to Thursday.
+4. I go to library on Wednesday.
+     Abdullah gos to library from Sunday to Wednesday.
+5. I relax with my friend on Saturday.
+     Abdullah relaxs with his friend on Thursday.
+```
 
 
 
+every + a noun for time
+
+```
+· I read a book every week. 
+· They play football every morning.
+```
+
+a prepositional phrase for time
+
+```
+• at + clock time: at 10 am, at 3 pm
+• in + part of the day: in the morning, in the afternoon, in the evening
+• on + day of the week: on Monday, on Tuesday
+• on + day of the week + part of the day: 
+```
 
 
 
+```
+I am a student. I live in London. Abdullah is my friend. I study English. 
+Abdullah studies physics and maths.
+
+My classes are from Monday to Friday. His classes are from Sunday to 
+Thursday. I go to library on Wednesday.  Abdullah goes to library from 
+Sunday to Wednesday.
+
+I relax with my friend on Saturday.  Abdullah relaxes with his friend on 
+Thursday.
+
+I get up at 8 o'clock every morning. He gets up at 6 am every day. We 
+like our life in school.
+```
 
 
 
-
-
-
-
-
-
-
+```
+We read your book about the lifestyle of Kombai people, and we are very 
+interested in this traditional clan. They hunt in the jungle and build tree 
+houses. 
+There are several ways to improve the lifestyle of the Kombai people. From 
+the book, we can see children do not go to school, so we advise that people 
+should set up schools and teach children different kinds of courses.
+Besides, a hospital or medical care is necessary, because people may have 
+accident when they hunt in the jungles or fall down from the treehouse.
+We are very interested in the lifestyle of the traditional group. Can you tell 
+us more about these people? 
+```
 
