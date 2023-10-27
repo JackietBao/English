@@ -145,6 +145,143 @@ Where do you go with your friends?
 
 
 
+句子
+
+```
+Dear GeekyJack, nice to see you again! 
+Welcome to Cambridge. It's beautiful here, isn't it? 
+```
+
+
+
+free time
+
+```
+• go out with friends
+• watch TV
+• go to the cinema
+• do sport and exercise
+• play computer games
+• go to the gym
+```
+
+
+
+technology
+
+```
+• send texts / 
+  photographs
+• post a video online
+• chat online
+• download apps
+• follow a blog
+• write a blog
+```
+
+
+
+food
+
+```
+• cook food for your
+   family
+• eat out at restaurants
+• have coffee with friends
+• eat at home
+• have dinner with friends
+• order fast food
+```
+
+
+
+Use do or does + subject + verb in questions.
+
+```
+Do you write a blog every day?
+Do you often send texts?
+Do you like posting a video online?
+When do you usually chat online?
+When do you usually chat online?
+```
+
+
+
+Abdullah
+
+```
+Abdullah is a serious student. 
+He studies every evening. 
+He has many classes, seminars and lectures every week.
+Abdullah reads books every morning. 
+In the evening, Abdullah studies in the library. 
+In his free time, Abdullah relaxes with friends. 
+Sometimes, Abdullah goes to the cinema. 
+He is in the University Camera Club.
+```
+
+
+
+Abdullah Taha
+
+```
+Abdullah Taha is a student in my class. This is his timetable.
+Abdullah studies Engineering at Cairo University. Abdullah takes
+five courses. They are Physics, Maths, English, Engineering and
+Arabic History. His favourite subjects are Physics and Maths.
+Abdullah is a serious student. He gets up at 6 am every day.
+He studies every evening. He has many classes, seminars and
+lectures every week.
+
+Abdullah has three classes every morning. He has Physics from
+8 am to 9 am, Maths from 9.15 am to 10.15 am, and Engineering
+from 10.30 am to 11.30 am.
+
+On Sunday, he meets his study group. His study group is from
+12.30 pm to 1.30 pm. On Monday and Wednesday, he has English.
+His English class is from 2 pm to 3 pm. On Thursday afternoon,
+he has Arabic History from 2 pm to 3 pm.
+
+In the evening, Abdullah studies in the library. In his free time,
+Abdullah relaxes with friends. Sometimes, Abdullah goes to the
+cinema. Abdullah likes taking photographs. He is in the University
+Camera Club.
+
+Abdullah says, "My university life is very busy. I have a lot of
+exams and projects, but I always have time to relax with friends
+and family."
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
