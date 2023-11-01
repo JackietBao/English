@@ -227,13 +227,102 @@ There are forests, rivers, lakes, mountains, seas and oceans on the map. Al-Idri
 
 
 
+MEET THE LOCALS
+
+```
+Ahmed Faiz, 19
+I live on an island south of Malé. Life on my island is very simple. 
+There are some shops and one mosque. We speak Dhivehi, but we 
+also learn English in high school.
+
+The Maldives are famous for their fish. The most popular food here 
+is garudiya. It's a delicious fish soup. 
+
+People in the Maldives like to swim and dive.
+```
 
 
 
+The Maldives — AN OVERVIEW
+
+```
+The Maldives are islands in the Indian Ocean. The islands are near 
+Sri Lanka. The Maldives are famous for their good climate, beautiful 
+beaches and warm seas. 
+
+There are 360,000 people in the Maldives. Most people live on small 
+islands.
+
+The capital city of the Maldives is Malé. It is a modern city with an 
+international airport and a big harbour. 
+
+People in Malé speak English and Dhivehi. English is useful because 
+many tourists come here. 
+
+Tourism and fishing are the most important businesses in the Maldives. 
+Many people work in tourist resorts. Others work as fishermen or in fish 
+factories. The currency is the rufiyaa. 
+```
 
 
 
+```
+The climate is good in the Maldives.
+Abdulla and I are university students.
+```
 
+
+
+```
+There are four main islands in Japan.
+There are many beautiful fountains in Rome.
+The Maldives are islands in the Indian Ocean.
+My sister is in the United Arab Emirates.
+```
+
+
+
+We use the before the names of:
+
+```
+· rivers   (the river Nile; the river Thames; the Yellow River)
+· seas     (the North Sea; the Black Sea; the Mediterranean Sea)
+· oceans   (the Pacific Ocean; the Atlantic Ocean; the Indian Ocean)
+· famous places   (the Galata Tower)
+· "united countries"   (the United Kingdom; the United Arab Emirates)
+· groups of islands    (the Maldives; the Philippines)
+· groups of mountains  (the Alps; the Himalayas)
+```
+
+
+
+We use no article (the zero article) before the names of:
+
+```
+· continents (Asia; America; Europe)
+· countries (China; Turkey; Chile)
+· cities (Abu Dhabi; Bangkok; Shanghai)
+```
+
+
+
+Writing Task
+
+```
+Hello, Abdullah! How is everything going?
+
+Now I am in the Maldives. This is a beautiful country. The Maldives 
+is in the Indian Ocean. The capital city is Malé. There are 360,000 
+people and many islands in this country.
+
+I eat a lot of fish here. The famous fish soup is garudiya. It is very 
+delicious. The weather is hot and sunny, about 30℃.
+
+People in the Maldives speak Dhivehi and English. I don't know 
+Dhivehi, but Echo helps me talk with people in English.
+
+The scenery is very nice. I think you like it, too.
+```
 
 
 
