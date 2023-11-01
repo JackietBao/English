@@ -132,3 +132,110 @@ Mehmet: Er, Shanghai.
 Lecturer: Yes, that's a good example. OK, so a megacity is a big city but a megaregion is a group of important cities. They're important for business and they're important because a lot of people live there. We sometimes call this blue line here the 'blue banana'. It's the name for a group of cities that go from north to south in Europe. Those cities have a lot of important places. For example, ports, airports and big banks. Rotterdam is a good example. The economy is good here. That's at 'B', here on the map. It has a very busy port. This yellow line that goes from East to West is another megaregion. It's also …
 ```
 
+
+
+Ask for directions 
+
+```
+Where's the gym?
+Is there a café near here?
+How do I get to the Language Centre?
+Can you tell me the way to the train station?
+I'm looking for the library. Is it near here?
+```
+
+
+
+```
+Excuse me! Can you tell me the way to the train station, please?
+Excuse me! I think I'm lost. Is there a café near here?
+Excuse me! How do I get to the Language Centre?
+```
+
+
+
+```
+1. It's opposite the International Business School.
+2. It's in the old town of Istanbul.
+3. Go through Clock Tower Garden to the Student's Union.
+4. It's in front of that big clock. There – on the right. 
+5. OK then, so we're at the clock.
+6. Go along Leeds Street. Then go over the bridge. 
+7. There's one next to the train station. 
+8. It's there on the left. It's behind that school. 
+```
+
+
+
+```
+It's behind the International 
+Business School. Go along 
+Leeds Street and then turn left. 
+Go along Hospital Road and 
+turn left. There are three 
+buildings on York Street. The 
+bank is next to the café and 
+opposite the gym on South 
+Road.
+```
+
+
+
+```
+Go out of the square and turn left. Go along Racer Street and up the hill to the castle. Go around the castle and down Fort Street to the river, and then go over the bridge. Go across the road and through the park to a big tree. When you are under the tree, turn right and go into the tent.
+```
+
+
+
+Noun phrases with of:
+
+```
+· I can see the fountain of the park.
+· He knows a museum of England history.
+· Abdullah studies in the university of Cairo.
+· A large monument is in the centre of our school. 
+· The train station is in the south of the city.
+```
+
+
+
+there is / there are
+
+```
+To say that something exists: there is / there are
+
+there is: before singular nouns
+· There is a bank in the city.
+· There is a fountain in the park.
+
+there are: before plural nouns
+· There are many trees in a forest.
+· There are farms and hills in the countryside. 
+```
+
+
+
+```
+Muhammad Al-Idrisi came from Morocco. In his life, Al-Idrisi travelled to Asia, France, England and Spain.
+
+Al-Idrisi's map of the world is called the Tabula Rogeriana in Europe. The map is in Arabic. His map helped people travel from country to country.
+
+The map shows North Africa, Europe, and South and East Asia. There are many European countries on the map. There is Norway in the north, Spain in the west, and Italy in the south. His map also shows India and China.
+
+There are forests, rivers, lakes, mountains, seas and oceans on the map. Al-Idrisi's map shows the Mediterranean Sea, the Indian Ocean and the river Nile.
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
