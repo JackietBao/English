@@ -103,49 +103,138 @@ more popular with women than men, but men can also do them.
 
 
 
+```
+OK, good afternoon, everybody! Today, many young people have an 
+unhealthy lifestyle, and this means they can be unhappy. This is a real 
+problem. So I want to start with this question: How can we make young 
+people fitter? How can we make them healthier? Happier?
+```
 
 
 
+```
+OK, good afternoon, Ron! You have an unhealthy lifestyle, and this 
+means you can be unhappy. This is a real problem. So I want to start 
+with this question: How can we make you fitter? How can we make you 
+healthier? Happier?
+```
 
 
 
+```
+Ok, let me start again…
+OK, good afternoon, Ron! Today, I want to talk to you about three 
+kinds of exercise. I want to start with this question. Which sport is 
+better for you?
+```
 
 
 
+verb: do / play / go
+
+```
+● do:martial arts / sport or exercise you do alone
+I do Kung-fu.   Mei does Karate.
+We do exercise for one hour every morning.
+```
 
 
 
+```
+● play:team games / sports with a ball
+I play volleyball.   He plays football.   Hiroshi plays baseball.
+```
 
 
 
+```
+● go:nouns with "-ing"
+We go skiing.   We go swimming.   Faisal goes running.
+```
 
 
 
+prepositions (in / on / at) + particular nouns
+
+```
+Children play football in their free time.
+Ginger plays squash at lunch times.
+
+People in my country play football on a field.
+Joanna does Kung-fu in the park.
+```
 
 
 
+Prepositional phrases can be an adverb.
+
+```
+time:Faisal plays tennis on Wednesday.
+     Pabea goes swimming in the evening.
+```
 
 
 
+```
+place:Children play football in the street.
+      I go running in the park.
+```
 
 
 
+```
+Philip plays volleyball for the university team.
+We watch baseball games on television.
+```
 
 
 
+Subject-Verb-Object
+
+```
+My sister cooks dinner.
+```
 
 
 
+Subject-Verb-Adjective
+
+```
+Kung-fu is dangerous.
+```
 
 
 
+Subject-Verb-Adverb
+
+```
+I go running in the park in the morning.
+```
 
 
 
+Academic writing skills
+
+```
+In summer, we go swimming.
+In the evenings, I watch TV.
+```
 
 
 
+```
+Faisal plays football, tennis, basketball and baseball.
+```
 
+
+
+```
+People play tennis in the park.
+In winter,  the children go ice skating.
+We play baseball in spring.
+On Monday, John does exercise.
+In May,  June,  July and August,  I play football.
+```
 
 
 
