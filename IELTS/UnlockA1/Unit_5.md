@@ -238,33 +238,94 @@ In May,  June,  July and August,  I play football.
 
 
 
+Reading 
+
+```
+Football is very important in Brazil. 
+People play football everywhere, and everybody plays. 
+Adults and children play football in their free time. 
+They usually play on football fields, but sometimes they play football 
+on the beach or in the street. 
+Brazil has many world-famous footballers, like Pele, Kakà, and 
+Ronaldinho. 
+In total, there are over 13 million players and 29,208 football clubs. 
+If you want to watch a football match, you can buy tickets from any 
+tourist office.
+```
 
 
 
+```
+Motor racing is also popular. 
+Piquet, Senna and Massa are famous Formula 1 drivers from Brazil. 
+Many Brazilians like motor racing and watch it on television. 
+In November, you can watch Formula 1 Grand Prix live in São Paulo 
+at Interlagos Speedway. 
+At other times of the year, you can watch Stock Car Brasil. 
+You can buy tickets for motor-racing events online.
+```
 
 
 
+```
+Football is not the only popular sport in Brazil. Capoeira is an important part of Brazilian culture. It is a mix of martial arts, exercise and music. People do capoeira in groups. You can watch capoeira groups in the park or in the street. People come from around the world to Brazil to learn it. Why not learn capoeira when you are in Brazil? 
+```
 
 
 
+Adjectives describe qualities.
+
+```
+· before a noun:popular sport, famous player
+· after is/are (not):Capoeira is special.
+                     Motor racing is exciting.
+                     Football is not boring.
+```
 
 
 
+```
+Football is not boring, but it is too common. I want to learn 
+a special sport.
+Capoeira is very popular, but it is too difficult for me.
+Motor racing is fast and exciting, but it is too dangerous.
+So, they are good sports, but not suitable for me. 
+```
 
 
 
+Reading
+
+```
+1. Football
+This is the number one sport in the world. There are over 3.5 billion fans! Millions of children play football at school. It is also the most popular sport to watch. Over 700 million people watch the World Cup on television. The most popular national teams are Brazil, Argentina and Spain. The most popular local teams are Manchester United, Real Madrid and Chelsea.
+
+2. Cricket
+Yes! Many people are surprised but it is true. Some people think this English game is slow and boring. But many people think it is fast and exciting. It is very popular in India, Pakistan, Sri Lanka, Australia, New Zealand and England. 2.2 billion people watch the World Cup.
+
+3. Field hockey
+Another surprise! The number 3 sport in the world is not basketball or baseball. Almost 2 billion people around the world watch and play field hockey. The best teams are from Germany, Australia and Korea.
+
+4. Tennis
+About 1 billion people in the world watch or play this game. The most popular competitions are the Australian Open, the French Open, Wimbledon and the US Open. Rafael Nadal from Spain and Maria Sharapova from Russia are famous players.
+
+5. Motor racing
+Over 150 million people watch Formula 1 on television. Grand Prix races take place in over 18 countries, including Malaysia, Korea, Italy and the United Arab Emirates. Famous drivers include the Brazilian Ayrton Senna and Britain's Lewis Hamilton.
+```
 
 
 
+Writing task
 
-
-
-
-
-
-
-
-
+```
+Ping-pong is very popular in China.
+Everyone plays ping-pong. Young people, old people, men and 
+women all like this sport.
+People play ping-pong everywhere and in any time of the year.
+Wang Liqin is a famous ping-pong player in the world.
+Millions of people are fans of this sport.
+The ticket price is also very cheap.
+```
 
 
 
