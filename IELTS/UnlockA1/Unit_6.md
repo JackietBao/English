@@ -186,53 +186,172 @@ My mother teaches at a university. She trains teachers.
 My sister is a good software engineer. She has a lot of experience.
 ```
 
+# Episode5
+
+Renji Hospital
+
+```
+Renji Hospital is part of Shanghai Jiao Tong University School of Medicine. We train and teach doctors and nurses.
+We are looking for a nurse to work at the hospital and train student nurses. You have to work early mornings and late nights.
+Applicants must have 10 years' experience. They must also speak fluent Chinese and English.
+```
 
 
 
+```
+What is the job?                               nurse
+Which country is the job in?                   China
+Who is the employer?                           Renji Hospital
+What is the salary?                            CNY16,800 per month
+Is the job full-time (FT) or part time(PT)?    FT
+```
+
+FlyHigh air transport company 
+
+```
+FlyHigh is a small company in Mumbai. We 
+provide private air transport in Asia. 
+We are looking for a pilot. All our pilots are 
+friendly and speak English, Hindi and Urdu.
+Applicants must have 2 years' experience. You 
+have to work weekends. You must be fit and 
+healthy.
+```
+
+Kitahiroshima Primary School
+
+```
+Kitahiroshima is a private English school. Our 
+staff are friendly and interested in teaching 
+children.
+We are looking for a Maths teacher to teach 
+grades 1–3.
+Applicants must have a university education. 
+They must speak English.
+```
+
+must and have to
+
+```
+something is necessary: 
+have to + infinitive                must + infinitive
+Doctors must be / have to be intelligent.
+Doctors must have / have to have a good education.
+```
 
 
 
+```
+have to + infinitive: I / we / you / they
+Managers have to be good with people.
+They have to be fit and strong.
+```
 
 
 
+```
+has to + infinitive: he / she / it
+A manager has to be good with people.
+He has to be fit and strong.
+```
 
 
 
+```
+must + infinitive: I / you / he / she / it / we / they
+A nurse must be kind and helpful.
+```
 
 
 
+```
+something is not necessary: 
+do/does not have to + infinitive
+
+do not have to + infinitive: I / we / you / they
+Actors do not have to be good with computers. 
+
+does not have to + infinitive:  he / she / it
+A film director does not have to be good at math.
+```
+
+# Episode6
+
+Letters
+
+```
+I have found a great job for you. It's for a full-time fitness instructor. 
+The job is at David Allen's Irish Gym in Manchester.
+You have to get up early in the morning. There are 12 students in 
+each group. You have to be very friendly and good with people. The 
+wages are very good – they pay £28 an hour. You don't have to 
+work on Friday or Saturday. I think you'll like this job. Here's the link: 
+www.ukjobs.co.uk/Fitness-instructor
+Apply soon!
+```
 
 
 
+```
+I have found a great job for you. It's in Oslo – here's the link: 
+www.itcompany.org/jobs  I know this company.
+The job is for a software engineer. It's full-time. They pay £4,150 per month!
+You must have a university degree (in computer science!) and you have to 
+have 2 years' experience. It also says that you must speak Norwegian. You 
+don't have to speak fluent Norwegian – so it's OK for you.
+```
 
 
 
+```
+I hope you're well. I have a great job for you. I think you'll like it – it's in South 
+Korea! I know you love Korean movies, especially movies with Cha Tae-hyun.
+The job is in Yeonggwang. It's a small town in the south of the country.
+The job is at a high school. You have to teach English and French to grades 10 to 12. 
+You speak fluent English and French (and Russian!) You don't have to speak Korean 
+so this is a great job for you. You have to work long hours. But you are a very 
+serious teacher. I know you work hard.
+```
 
 
 
+```
+One kind of contraction is do not → don't       does not → doesn't.
+She does not have to be strong. → She doesn't have to be strong.
+```
 
 
 
+```
+Dear Erik,
+I hope you're well. I have a great job for you. I think you'll like it – 
+it's in the UK!
+The job is in London. It is a nice and popular city.
+The job is for a software engineer. It's full-time. The salary is ￡3000
+per month.
+You must be good at Maths and computers. You have to be creative, 
+but you don't have to speak foreign languages.
+Here's the link: www.discoverjobs4you.com
+Good luck!
+GeekyJack
+```
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
+Dear ______ (write your partner's name),
+I hope you're well. I have a great job for you. I think you'll like it – 
+it's in ____ (write the name of country)!
+The job is in ____ (write the name of the city/town). It _____________
+(write a sentence to describe the city).
+The job is for a ________ (write the name of the job). It's _______(write 
+full-time or part-time). The salary is ______ (write the salary) per month.
+____________________________________________________(Write sentences 
+about the job. Use must and have to with adjective phrases.)
+Here's the link: www.discoverjobs4you.com
+Good luck!
+________(write your name)
+```
 
 
 
