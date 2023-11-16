@@ -162,17 +162,126 @@ Other architects design houses with glass or even
 plastic walls.
 ```
 
+# Episode5
+
+ → -(e)r + than 
+
+```
+A baseball is smaller than a football.
+My town is quieter than London.
+A shopping mall is wider than a typical Japanese house. 
+```
+
+→ -ier (we replace -y with -i) + than 
+
+```
+ This hotel is uglier than that hotel.
+ Shanghai is busier than Kansas City.
+```
+
+→ more + adjective + than
+
+```
+A car is more expensive than a bike.
+The Rockefeller Center is more modern than the Louvre Museum.
+```
 
 
 
+# Episode6
+
+```
+① Taipei 101 is tall.    ②The Burj Khalifa is taller than Taipei 101.
+Taipei 101 is tall but the Burj Khalifa is taller than Taipei 101.
+Taipei 101 is tall but the Burj Khalifa is taller.
+```
 
 
 
+```
+The SM Mall of Asia is bigger than the Country Club Plaza. 
+The Country Club Plaza is older than the SM Mall of Asia. 
+The SM Mall of Asia is bigger than the Country Club Plaza but the Country Club Plaza is older.
+```
 
 
 
+```
+Malls are big buildings for [shopping]. They are near big cities.  
+Sometimes they are inside skyscrapers. Many cities have more than 
+one mall. Malls have [restaurants] and [cinemas]. The [restaurants] 
+are [bigger] than [restaurants] in the city. Some malls also have 
+gyms and [swimming] pools. 
+
+The [Country Club Plaza] in [Kansas City] in the [United States] was 
+the first mall in the world. It is popular today but there are [bigger] 
+malls in [America], [Europe], the [Gulf] and [Asia].
+```
 
 
+
+```
+What are skyscrapers?
+
+Skyscrapers are very tall buildings. They are usually more than 300 metres tall. You can see skyscrapers in cities around the world. Many countries build skyscrapers to attract tourists. There are many skyscrapers in Asia, the Gulf, America and Europe. Inside a skyscraper, there are offices, shops, restaurants and apartments.
+```
+
+
+
+```
+What are some famous skyscrapers?
+
+The Empire State Building in New York is a world-famous skyscraper. 
+It has two million visitors every year. It is popular with tourists but 
+there are taller and more modern skyscrapers in the Gulf and in Asia. 
+The Shanghai World Financial Center, Taipei 101 and the Burj Khalifa 
+in Dubai, are taller than the Empire State Building. The Burj Khalifa is 
+taller than the World Financial Center and Taipei 101. Taipei 101 is 
+taller than the World Financial Center. The Burj Khalifa is also more 
+modern than the other two buildings. It opened in 2010.
+```
+
+
+
+How much money do skyscrapers cost?
+
+```
+Skyscrapers are very expensive. They cost more money than other 
+buildings. The Burj Khalifa cost $1,500,000,000 to build. It was more 
+expensive than the World Financial Center ($850,000,000) but it was 
+cheaper than Taipei 101. Taipei 101 cost $1,760,000,000.
+```
+
+
+
+What is inside a skyscraper?
+
+```
+The Burj Khalifa has 163 floors. This is more than Taipei 101 or the 
+World Financial Center. They have 101 floors each. All skyscrapers 
+have lifts. Taipei 101 has more lifts than the Burj Khalifa or the World 
+Financial Center. It has 61 lifts. The Burj Khalifa has 57 lifts but the 
+World Financial Center has only 31. Many skyscrapers also have 
+shopping centres or malls inside them. A lot of people come shopping 
+every day.
+```
+
+
+
+```
+We found a shopping mall to start your restaurant. The name of the 
+mall is Istanbul Cevahir. It is in Istanbul, Turkey.
+
+The mall opened in 2005, and it is more modern than the Metro 
+Centre.  Also, Istanbul Cevahir is bigger than the Metro Centre, and 
+has more floors. 
+
+The shops in these malls are almost the same, but there are more 
+restaurants in Istanbul Cevahir. Istanbul Cevahir and the Metro 
+Centre have the same number of cimemas, both 12.
+
+We believe this is a good place for you to start your restaurant. 
+```
 
 
 
