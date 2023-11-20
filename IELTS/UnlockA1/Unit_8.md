@@ -31,27 +31,90 @@ Sofia: Hello! I'm Sofia. This afternoon, I'm going to tell you about the results
 My last question was 'Why are family meals important?'. You can see here that the results are interesting. There were two answers to this question.First, 80% of people think family meals are a good place to talk. They think it's a good time for parents to see their children. Secondly, 20% of people think family meals are cheaper and healthier. They think that families cook fresh food and don't eat fast food.So my conclusion is that food is important in families and families are important in culture. Thank you! Any questions?
 ```
 
+# Episode3
+
+```
+My first question was …
+My second question was …
+My third question was …
+My last question was …
+```
 
 
 
+```
+· This apple is green.            · Some apples are red.         
+· This dish is popular in China.  · Chinese dishes are delicious.
+
+· Fish is good for you.           · Fishes are good for you. X
+· Yoghurt is healthy.             · Yoghurts are healthy.    X
+```
+
+# Episode4
+
+# Episode5
+
+```
+Tea is tasty and good for you. It is also one of the most popular drinks around the world. But what is tea? And why is it so popular?
+All tea comes from tea leaves but tea is not always the same. There are many kinds of tea. You can drink black tea, green tea, white tea or fruit tea. Each type of tea has a different taste and a different colour.
+
+The history of tea begins in Asia. In China, Korea and Japan, tea is still very important today. In Japan, it can take many hours to prepare and drink tea with your guests. In Malaysia, a popular drink at breakfast is teh tarik ('pulled tea'). Malaysians say it is good for you and tastes good with canai bread.
+Tourists in Kuala Lumpur like watching the tea sellers make 'pulled tea'. The tea sellers pour hot water on black tea. After five minutes, they add sugar and milk. Then they 'pull' the tea – they pour the tea from one cup to another many times.
+
+In many countries, you must have a special kettle to make tea. People in different countries also like to add different things to their tea. For example, Russians use a special kettle called a samovar. They like drinking tea with lemon. Sometimes, they also drink tea with some sugar or jam.
+
+In Turkey, tea comes in a Çaydanlık. A Çaydanlık has two kettles: one for the water and one for the tea. Drink Turkish tea with some sugar.
+Arab tea, called karak, has cardamon, ginger, milk and sugar. In the United Kingdom, they add some milk and sugar. 
+
+The British usually eat biscuits with their tea. In Japan, they like…
+```
 
 
 
+```
+· Some dates are served with the coffee. 
+· Chefs prepare the dish with some lemons.
+· Add some honey to the dish. 
+· English people drink tea with some milk.
+```
+
+# Episode6
+
+```
+At an Arab restaurant, you can find delicious lamb, 
+chicken and beef dishes. Two popular dishes are 
+sharwarma and kabsa. Sharwarma is a savoury meat 
+dish. The meat is served in pita bread with tomato 
+and cucumber. Kabsa is popular in many Middle 
+Eastern countries but it is very popular in Saudi 
+Arabia. Kabsa is a rice, meat and vegetable dish. 
+There are many different ways to prepare kabsa. 
+Falafel is …
+```
 
 
 
+```
+At a Cambodian restaurant, there is a lot of fruit. 
+You can find mangoes, melons and pineapples. 
+Cambodians also like fish with rice or noodles. 
+Cambodian dishes are served with a lot of 
+vegetables. Mushrooms and cabbage are very 
+popular in Cambodian cuisine. One famous dish is 
+amok trey. Cambodians prepare amok trey with fish, 
+nuts, coconut milk and egg. Another dish is …
+```
 
+be served in: (放在...里)
 
+be served with: (和...一起)
 
-
-
-
-
-
-
-
-
-
-
-
+```
+At a Chinese restaurant, you find many different kinds of 
+noodles(what kinds of food?). Sichuan spicy Dandan 
+noodles and Wuhan hot noodles (what kind of dishes?) 
+are very popular. Beijing Roast Duck (which food?) is also 
+famous for savoury sauces and tender meat (what kind of 
+food or what kind of dishes?).
+```
 
