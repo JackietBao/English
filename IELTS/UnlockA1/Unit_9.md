@@ -69,16 +69,3 @@ What do you know about orangutans?
 
 # Episode3
 
-```
-Jason: Hi! How are you today? Good? Good! OK, good morning! I'm Jason, and today I'm going to tell you about a bird from my country – the American bald eagle. OK, so, where do they live? Well, you can see them in the US and Canada and here's a photograph of one.You can see here that this bird is flying to its nest. 'Nest' is the name for the place where the eagle lives. Some nests can be very big. How big can they be? Well, there was one eagle's nest that was more than 1,000 kilos!Here's another photograph. You can see she has these white feathers on her head.So what do bald eagles eat? Well, fish are their prey. That means the eagles hunt them. And you see her yellow beak here? That beak is very sharp. That means it can cut the fish very easily.OK, uh, and now Khaled is going to talk about an animal from his country.
-Khaled: OK, good morning, everybody. My name's Khaled and I'm going to talk about the animal in this photograph here. So this is an Arabian oryx.An oryx is a kind of wild animal that lives in the desert. You can see them in many countries in the Arab world. For example, Oman, Jordan, Saudi Arabia and near my home in Abu Dhabi.They are famous for their horns. That's these two long, hard things on their head. You can see their horns better in this photograph. The horns are very sharp!Oryx can run and jump very fast. Oryx eat grass and also fruit when they can find it.The oryx are nomadic. That means they do not live in one place in the desert, but they travel around.Thank you! Now, I think …
-```
-
-
-
-
-
-
-
-
-
