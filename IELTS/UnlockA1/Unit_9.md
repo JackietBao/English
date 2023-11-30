@@ -166,9 +166,61 @@ live for two or three years 寿命为2~3年
 
 # Episode5
 
+```
+small→ the smallest   · The smallest animal in the world lives in Asia.
+strong→ the strongest  · Many of the strongest animals in the world live in Australia. 
+```
+
+
+
+```
+· Dolphins are the friendliest animal in the sea.
+```
+
+
+
+```
+ · The most poisonous frog on earth lives in South America. 
+```
+
+
+
+```
+ · The most endangered type of bear is the panda bear.
+```
+
+
+
+```
+· The smallest animal in the world lives in Asia.
+```
+
 # Episode6
 
+```
+Cheetahs (Acinonyx jubatus) are the fastest animals on land.They can run at 112 kph. They are smaller than lions and leopards. The average cheetah is 66 cm to 99 cm high and weighs between 35 and 72 kg. Cheetahs live for about 12 years. Female cheetahs usually look after their cubs alone. They usually have between two and four cubs.
+
+Cheetahs use their speed to catch their prey. They hunt gazelles and zebras. In the past, cheetahs lived in Asia, the Middle East and Africa. Now, most cheetahs live in East Africa but there are a small number of cheetahs in Iran.
+
+Sharks may be the most dangerous animal in the sea, but they are not the fastest swimmers. The fastest swimmers are sailfish. There are two kinds of sailfish. Atlantic sailfish (Istiophorus albicans) live in the Atlantic Ocean, and Indo-Pacific sailfish (Istiophorus platypterus) live in the Indian Ocean and the Pacific Ocean.
+Sailfish can swim at 109 kph. Sailfish hunt other fish and squid. They often hunt in groups. The biggest sailfish are 3 m long and weigh 90 kg. The average sailfish is usually smaller than this. They live for about four years.
+
+Peregrine falcons (Falco peregrinus) are the fastest birds on earth. They usually fly at 65~90 kph but they can fly faster when they hunt. Their highest speed is about 325 kph. They hunt other birds – usually ducks and pigeons. Their wings are about 120 cm long. Their body is about 34~58 cm long. They weigh about 1 kg.
+
+You can see peregrine falcons in most countries. They can live in very cold and very hot places. They live for about 15 years.
+```
 
 
 
+```
+IntroductionThere are about 10 million different kinds of animal on earth and they come in all shapes and sizes. This book is a simple introduction to the huge variety in the animal kingdom. It features some of the most unusual animals in the world and includes key data on each species and their habits in the wild.
+
+Some of the strangest animals in the world live in Australia and New Zealand. There is the kakapo parrot (Strigops habroptila). It is a bird but it cannot fly. It is a nocturnal animal. It sleeps in the day and eats at night. There are only 131 kakapo parrots in the world.
+
+The kiwi (Apteryx australis) is another bird that cannot fly. Some birds are very beautiful – but the kiwi is not. It is one of the ugliest birds in the world. But the kiwi is the most romantic bird in the world. Male and female kiwis live together for 30 years.
+
+Australia has many strange animals. The most surprising Australian animal is the platypus (Ornithorhynchus anatinus). It has the face and feet of a bird, the body of a rat and the tail of a beaver. It is a mammal but it lays eggs.
+
+The smallest mammal in the world lives in Asia. It is the bumblebee bat (Craseonycteris thonglongyai). It lives in Thailand. It is only 2.5 cm long and it weighs 3 g. There are only 2,000 bumblebee bats left in Thailand because people burn the forest where they live.
+```
 
