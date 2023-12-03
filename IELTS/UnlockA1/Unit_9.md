@@ -213,7 +213,7 @@ You can see peregrine falcons in most countries. They can live in very cold and 
 
 
 ```
-IntroductionThere are about 10 million different kinds of animal on earth and they come in all shapes and sizes. This book is a simple introduction to the huge variety in the animal kingdom. It features some of the most unusual animals in the world and includes key data on each species and their habits in the wild.
+Introduction There are about 10 million different kinds of animal on earth and they come in all shapes and sizes. This book is a simple introduction to the huge variety in the animal kingdom. It features some of the most unusual animals in the world and includes key data on each species and their habits in the wild.
 
 Some of the strangest animals in the world live in Australia and New Zealand. There is the kakapo parrot (Strigops habroptila). It is a bird but it cannot fly. It is a nocturnal animal. It sleeps in the day and eats at night. There are only 131 kakapo parrots in the world.
 
