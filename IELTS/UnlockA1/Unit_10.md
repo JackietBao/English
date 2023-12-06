@@ -46,23 +46,46 @@ For example, it takes a long time to get to your destination, so drivers need to
 Some countries said that bicycles would be a good idea and have free bicycles in the city for people to use. Another place where the government is working hard to improve the transport system is in Dubai. Firstly, the plan is to reduce traffic congestion by making public transport better, so they have introduced more buses and bus routes and also built a metro railway. But the problem is that buses get stuck in traffic jams, and commuters still have to drive to metro stations. So the plan for the future is to make the metro system bigger by going underground – like the London Underground – and also to go over the city with sky trains like they have in Bangkok. Also, because it is very hot in Dubai, they will build air conditioned sky bridges with travelators to connect the stations so that people can walk around easily and won't need to drive …
 ```
 
+# Episode3
+
+```
+The population of cities grows more quickly than in the countryside. 
+This means that cities become really congested. 
+This is because everyone uses cars to travel around the city, and this 
+can be a problem. 
+For example, it takes a long time to get to your destination, so drivers 
+need to use a lot of petrol …
+```
 
 
 
+```
+You can see in this photograph that this happened in Europe. A lot 
+of companies used old ships. Old ships were cheaper, but they had 
+some problems. For example, petrol came out of the ships and into 
+the rivers. The petrol killed the fish. Fishermen were angry because 
+they couldn't catch any fish.
+```
 
 
 
+```
+So, was it a good solution? Well, that's a very interesting question!
+Why? Because the companies weren't happy that they had to clean 
+the rivers.
+The old ships were cheap, but modern ships are expensive.
+And they didn't want to pay to clean the rivers.
+But there was some good news.
+The fishermen are happier because the rivers are cleaner.
+That means there are more fish than before.
+I think it was a good solution.
+```
 
+# Episode4
 
+# Episode5
 
-
-
-
-
-
-
-
-
+# Episode6
 
 
 
