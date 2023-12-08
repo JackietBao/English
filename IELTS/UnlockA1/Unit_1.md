@@ -1,6 +1,30 @@
-自我介绍
+# Episode1
 
-Talk about：
+**听力**
+
+```
+Carlos: Hi, hello. I'm Carlos. I'm going to tell you about Koko. She's a student in our class. She's 18 and she's from Japan. Her family's from Sapporo. Her father's a teacher. She wants to study English at university.
+
+Kerry: A-l-l right! Thank you, Carlos. So, Koko. It's your turn. Please introduce the student next to you.
+
+Koko: Hello! Yes! I'm going to tell you about Hussain. This is Hussain. He's from Al Ain. Al Ain is in, the uh ...
+
+Kerry: Un-it-ed … A-rab … Em-ir-ates.
+
+Koko: Yes … the UAE! Hussain's from Al Ain. It's in the UAE. He's 20. His family's from Al Ain. He has two younger sisters and one younger brother. He likes football and his favourite footballer is Lionel Messi. Hussain wants to study Business at university.
+
+Kerry: Thank you, Koko. Well done. So, Hussain. Please introduce the student next to you.
+
+Hussain: Hello! I'm going to tell you about Nehir. Nehir is 19. She's from Turkey. She has a brother. Her family has a hotel. She wants to study Business at university.
+
+Kerry: Thank you, Hussain. Nehir – your turn!
+
+Nehir: Hello. I'm going to tell you about Carlos. He's 19. He's from Peru. His father's a TV producer and his mother's a doctor. Carlos wants to study Computer Science at university.
+
+Kerry: Thank you, Nehir.
+```
+
+**Talk about：**
 
 ```
 your name (I'm… )
@@ -26,7 +50,7 @@ My name's Jack and I'm from China. I'm 21 and I'm a student. I have one sister. 
 
 
 
-词汇
+**词汇**
 
 ```
 It's your turn 轮到你了
@@ -34,15 +58,13 @@ It's your turn 轮到你了
 
 
 
-介绍别人
+**介绍别人**
 
 ```
 Hi, hello. I'm Jack. I'm going to tell you about Koko. She's a student in our class. She's 18 and she's from Japan. Her family's from Tokyo. Her father's a teacher. She wants to study English at university.
 ```
 
-
-
-
+# Episode2
 
 The verb is before the subject in questions.
 
@@ -54,7 +76,7 @@ You are from London.             Are you from London?
 
 
 
-句型
+**句型**
 
 ```
 He lives in Shanghai in China.
@@ -77,7 +99,7 @@ Write the words from the box in the correct places in the table below.
 
 
 
-介绍家庭成员
+**介绍家庭成员**
 
 ```
 He is a father. 
@@ -89,7 +111,7 @@ He likes beer and TV.
 
 
 
-句型
+**句型**
 
 ```
 My city is famous for its university.
