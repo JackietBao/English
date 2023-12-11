@@ -74,6 +74,33 @@ She is from Turkey.              Is she from Turkey?
 You are from London.             Are you from London?
 ```
 
+**听力**
+
+```
+Marie: Hi! Good morning, everybody!
+All: Morning. Hi. Hello.
+Marie: I'm going to tell you about two famous people from the United States. One person is a famous man and one person is a famous woman. So… picture one. Who's this? In the photograph? Do you know?
+Student: Um, is he an actor?
+Marie: Uh, no, no, he isn't an actor. Anybody? No? OK, well, this is Larry Page. And he has a famous company: Google. I'm sure you know it! Larry's father's name is Carl and his mother's name is Gloria. They're computer scientists.
+And, OK, now this photograph. This is Ursula Burns. She's a famous businesswoman. She's from New York but her family's Latin American. They're from Panama. She's famous for her work with Xerox. She's the first …
+Clare: … thank you, Marie. Hi! Now I'm going to tell you about two famous people from the United Kingdom. This one, this is Jessica Ennis-Hill. She's a sportswoman and she's from Sheffield, a city in England. Her father's from Jamaica and her mother's from England. Jessica has a lot of medals for athletics.
+A-a-and this is my next photograph. This is Sir Harry Kroto. He's a famous scientist from England. He has a Nobel Prize. He's from a small town near Cambridge. His wife's name is Margaret. She's a scientist too.
+```
+
+# Episode3
+
+![image-20231210143407041](assets/Unit_1/image-20231210143407041.png)
+
+1. Who's the person in your ideas map?
+
+2. Is he/she your [father/mother/brother/sister/cousin, etc.]?
+
+3. Where's he/she from?
+
+4. What does he/she do?
+
+5. How old is he/she? 
+
 
 
 **句型**
