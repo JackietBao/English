@@ -101,7 +101,15 @@ A-a-and this is my next photograph. This is Sir Harry Kroto. He's a famous scien
 
 5. How old is he/she? 
 
-# Episode4
+# Episode5
+
+**大写**
+
+![image-20231213210033308](assets/Unit_1/image-20231213210033308.png)
+
+**critical thinking**
+
+![image-20231213211359539](assets/Unit_1/image-20231213211359539.png)
 
 **句型**
 
