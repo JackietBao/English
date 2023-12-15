@@ -10,8 +10,6 @@ We get snow when It's cold here.
 I like to stay at home when there is snow outside.
 ```
 
-
-
 句子
 
 ```
@@ -23,7 +21,7 @@ This is a photograph of the Snow Centre near London.
 where do you think this is?
 ```
 
-
+# Episode2
 
 句子
 
@@ -36,8 +34,6 @@ In autumn,the trees change colour from green to orange or red in Japan.
 In Australia,summer begins in December and ends in February.
 The rainy season in Nigeria is from March to October.
 ```
-
-
 
 疑问
 
@@ -53,8 +49,6 @@ There are 4 seasons in China.
 They are spring, summer, autumn and winter.
 In my country, spring is from March to May.
 ```
-
-
 
 句子
 
@@ -81,8 +75,6 @@ What colour are trees? They can be green or red.
 What colour are clouds? They're white. 
 ```
 
-
-
 文章
 
 ```
@@ -90,8 +82,6 @@ Daniela: OK, so, good morning, everybody. I'm Daniela. OK, so, uh, I'm going to 
 
 Altan: Hello, everybody! OK, so, I'm Altan. I'm from Samsun. Uh, Samsun is in Turkey, I'm Turkish, and Samsun's a city by the Black Sea. But, OK, so today I'm going to talk about a different place. Here's my first photograph. lt's a beautiful place. You can see there's a big mountain and there are trees here. lt's sunny, but it's a cold day in autumn. Can you see the colour of the trees? All red and yellow.So, where is this beautiful place? Well, it's in South Korea. This is Seoraksan National Park. lt's a famous park. Here's another photograph of the park. lt's sunny but in fact it's cold. A lot of people go there.
 ```
-
-
 
 There be句型
 
@@ -101,16 +91,12 @@ There's a beautiful beach. There's a lot of snow.
 here are people on the beach. There are rocks.
 ```
 
-
-
 肯定句
 
 ```
 There is + 单数名词 / 不可数名词
 There are + 复数名词 
 ```
-
-
 
 否定句
 
@@ -128,8 +114,6 @@ There is no + 单数名词 / 不可数名词
 There are no + 复数名词 
 ```
 
-
-
 疑问句
 
 ```
@@ -144,8 +128,6 @@ Are there any people on the beach?
 Is there + 单数名词 / 不可数名词 +？
 Are there + 复数名词 +？
 ```
-
-
 
 句子
 
@@ -184,8 +166,6 @@ ______ (your town) is in ______(your country).
 OK, so, I'm going to talk about two photographs of a place in _____(season). Here's my first photograph.
 ```
 
-
-
 The Coldest City in the World 
 
 ```
@@ -200,15 +180,11 @@ In 2012, I visited Yakutsk. Why? Because I wanted to see the coldest city in the
 People in Yakutsk like sport. In spring and autumn, the average temperature is -21℃. They go skiing and ice-skating. In summer, it is warm. The average temperature is +20℃. They have picnics in the forests.
 ```
 
-
-
 句子
 
 ```
 Winter is very cold in Yakutsk.
 ```
-
-
 
 CUBA WEATHER
 
@@ -230,8 +206,6 @@ rainfall in the rainy season is 146 mm.
 
 The best time to visit Cuba is April or May.
 ```
-
-
 
 句子
 
@@ -256,8 +230,6 @@ The dry season is from June to November.
 The average rainfall is 78 mm in spring. 
 ```
 
-
-
 The Weather in Ulaanbaatar
 
 ```
@@ -272,8 +244,6 @@ the average temperatures are from +15 ℃ to +19 ℃. It is very rainy in summer
 The average rainfall is from 42 mm to 58 mm.
 ```
 
-
-
 句子
 
 ```
@@ -287,8 +257,6 @@ The average rainfall is 21 mm.
 Typical teenagers are students.
 ```
 
-
-
 ★ Type 1: a preposition + a noun for a place
 
 ```
@@ -297,16 +265,12 @@ My sister is a student in Tai Pei.
 I am from Ankara.
 ```
 
-
-
 ★ Type 2: a preposition + a noun for a season or a month.
 
 ```
 It is warm in summer. 
 It is cold in January.
 ```
-
-
 
 句子
 
@@ -341,8 +305,6 @@ Spring is from March to May.
 Springs are warm in Shanghai. The average temperature is 15 ℃.
 It is rainy in spring. The average rainfall is 105 mm. 
 ```
-
-
 
 The Weather in Shanghai
 

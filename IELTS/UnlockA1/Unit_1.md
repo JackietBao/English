@@ -48,15 +48,11 @@ My name's Jack and I'm from China. I'm 21 and I'm a student. I have one sister. 
 | occupations | student, doctor, manager        |
 | countries   | Saudi Arabia, China             |
 
-
-
 **词汇**
 
 ```
 It's your turn 轮到你了
 ```
-
-
 
 **介绍别人**
 
@@ -144,15 +140,11 @@ He likes doughnut.
 He likes beer and TV. 
 ```
 
-
-
 **句型**
 
 ```
 My city is famous for its university.
 ```
-
-
 
 For some words, the first letter is always a capital letter.
 
