@@ -168,6 +168,8 @@ ______ (your town) is in ______(your country).
 OK, so, I'm going to talk about two photographs of a place in _____(season). Here's my first photograph.
 ```
 
+# Episode4
+
 The Coldest City in the World 
 
 ```
@@ -183,6 +185,15 @@ People in Yakutsk like sport. In spring and autumn, the average temperature is -
 ```
 
 句子
+
+```
+Is life easy in Yakutsk?
+Is winter cold in your country?
+How hot is the summer in your country?
+Do you like hot summers or cold winters? Why?
+```
+
+
 
 ```
 Winter is very cold in Yakutsk.
