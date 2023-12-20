@@ -193,11 +193,7 @@ How hot is the summer in your country?
 Do you like hot summers or cold winters? Why?
 ```
 
-
-
-```
-Winter is very cold in Yakutsk.
-```
+# Episode5
 
 CUBA WEATHER
 
@@ -256,6 +252,8 @@ Summer is from June to August. Summers are warm in Ulaanbaatar. In summer,
 the average temperatures are from +15 ℃ to +19 ℃. It is very rainy in summer. 
 The average rainfall is from 42 mm to 58 mm.
 ```
+
+# Episode6
 
 句子
 
