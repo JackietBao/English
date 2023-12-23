@@ -329,6 +329,3 @@ Summer is from June to August. Summers are hot in Shanghai. The
 average temperature is 25 ℃. It is rainy in summer. The average 
 rainfall is 138 mm. 
 ```
-
-
-
