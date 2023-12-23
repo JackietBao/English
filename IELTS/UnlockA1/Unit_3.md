@@ -1,3 +1,5 @@
+# Episode1
+
 句子
 
 ```
@@ -22,13 +24,9 @@ She takes the bus.
 We go home early on Tuesday. 
 ```
 
-
-
 Add -s or -es to the verb after he / she / it
 
 ![image-20231025185725608](assets/Unit_3/image-20231025185725608.png)
-
-
 
 Use do not + verb or does not + verb in the negative. 
 
@@ -38,16 +36,14 @@ I don't watch films.            She doesn't take the bus.
 We don't go home early today.   He doesn't go to work early.
 ```
 
-
-
 Use do or does + subject + verb in questions.
 
 ```
 Do you have dinner at home?
 Where does she go every day?
+特殊疑问句：特殊疑问词 + do or does + subject + verb 
+★The verb have is irregular.   Use has with he / she / it.
 ```
-
-
 
 句子
 
@@ -64,13 +60,11 @@ Where does she go every day?
 This is Elodie. She's from France. She takes the  bus to university every day. The bus comes at 7:30. Elodie arrives at 8:30. She has a biology lecture at nine on Tuesday and Thursday. She has lunch with her friends at 12:30. Elodie has an English class at three o'clock in the afternoon. She goes to the cinema with her family on Friday evening.
 ```
 
-
+# Episode2
 
 ```
 Aloha, Rookie, welcome to winter wonderland!
 ```
-
-
 
 dialogues 
 
@@ -114,8 +108,6 @@ dialogues
    B: Really? / I see.
 ```
 
-
-
 QUESTIONNAIRE
 
 Home/Family
@@ -143,16 +135,12 @@ When do you go out with friends?
 Where do you go with your friends? 
 ```
 
-
-
 句子
 
 ```
 Dear GeekyJack, nice to see you again! 
 Welcome to Cambridge. It's beautiful here, isn't it? 
 ```
-
-
 
 free time
 
@@ -164,8 +152,6 @@ free time
 • play computer games
 • go to the gym
 ```
-
-
 
 technology
 
@@ -179,8 +165,6 @@ technology
 • write a blog
 ```
 
-
-
 food
 
 ```
@@ -193,8 +177,6 @@ food
 • order fast food
 ```
 
-
-
 Use do or does + subject + verb in questions.
 
 ```
@@ -204,8 +186,6 @@ Do you like posting a video online?
 When do you usually chat online?
 When do you usually chat online?
 ```
-
-
 
 Abdullah
 
@@ -219,8 +199,6 @@ In his free time, Abdullah relaxes with friends.
 Sometimes, Abdullah goes to the cinema. 
 He is in the University Camera Club.
 ```
-
-
 
 Abdullah Taha
 
@@ -252,8 +230,6 @@ exams and projects, but I always have time to relax with friends
 and family."
 ```
 
-
-
 句子
 
 ```
@@ -279,8 +255,6 @@ and family."
 4) I love this book! The story is amazing!
 ```
 
-
-
 文章
 
 ```
@@ -302,8 +276,6 @@ women and children all help to build a tree
 house. Each house is 20m high. The stories of 
 the Kombai people are amazing.
 ```
-
-
 
 Facts about the lifestyle :
 
@@ -327,8 +299,6 @@ Facts about the lifestyle :
 5. I relax with my friend on Saturday.
      Abdullah relaxs with his friend on Thursday.
 ```
-
-
 
 every + a noun for time
 
