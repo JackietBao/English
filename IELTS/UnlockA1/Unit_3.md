@@ -113,7 +113,7 @@ QUESTIONNAIRE
 Home/Family
 
 ```
-Dou you live with your parents?\
+Dou you live with your parents?
 ```
 
 Work/Studies
@@ -142,6 +142,8 @@ Dear GeekyJack, nice to see you again!
 Welcome to Cambridge. It's beautiful here, isn't it? 
 ```
 
+# Episode3
+
 free time
 
 ```
@@ -156,7 +158,7 @@ free time
 technology
 
 ```
-• send texts / 
+• send texts 
   photographs
 • post a video online
 • chat online
@@ -186,6 +188,8 @@ Do you like posting a video online?
 When do you usually chat online?
 When do you usually chat online?
 ```
+
+# Episode4
 
 Abdullah
 
@@ -229,6 +233,8 @@ Abdullah says, "My university life is very busy. I have a lot of
 exams and projects, but I always have time to relax with friends
 and family."
 ```
+
+# Episode5
 
 句子
 
@@ -276,6 +282,8 @@ women and children all help to build a tree
 house. Each house is 20m high. The stories of 
 the Kombai people are amazing.
 ```
+
+# Episode6
 
 Facts about the lifestyle :
 
