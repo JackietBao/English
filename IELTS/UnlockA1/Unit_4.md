@@ -170,15 +170,7 @@ Excuse me! How do I get to the Language Centre?
 
 
 ```
-It's behind the International 
-Business School. Go along 
-Leeds Street and then turn left. 
-Go along Hospital Road and 
-turn left. There are three 
-buildings on York Street. The 
-bank is next to the café and 
-opposite the gym on South 
-Road.
+It's behind the International Business School. Go along Leeds Street and then turn left. Go along Hospital Road and turn left. There are three buildings on York Street. The bank is next to the café and opposite the gym on South Road.
 ```
 
 
@@ -187,7 +179,7 @@ Road.
 Go out of the square and turn left. Go along Racer Street and up the hill to the castle. Go around the castle and down Fort Street to the river, and then go over the bridge. Go across the road and through the park to a big tree. When you are under the tree, turn right and go into the tent.
 ```
 
-
+# Episode4
 
 Noun phrases with of:
 
