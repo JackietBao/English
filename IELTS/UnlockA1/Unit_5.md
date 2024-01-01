@@ -1,3 +1,5 @@
+# Episode1
+
 ```
 Nice to meet you. My name is Ron Wesley, and I'm your partner today.
 ```
@@ -33,8 +35,6 @@ Beckham is a very famous football player.
 Ron, are you interested in any of these sports?
 ```
 
-
-
 Say the sentences.
 
 ```
@@ -43,8 +43,6 @@ Say the sentences.
 3. Phones are better than computers.
 4. Yoga is tougher than free diving.
 ```
-
-
 
 1. adjectives with one or two syllables
 
@@ -59,16 +57,12 @@ Men are bigger than women.
 My brother is fatter than my sister.
 ```
 
-
-
 2. Adjectives with two or more syllables
 
 ```
 Football is more popular than tennis in my country.
 Baseball is more important than basketball in my country.
 ```
-
-
 
 Language Development Comparative Adjectives
 
@@ -81,7 +75,7 @@ Language Development Comparative Adjectives
 6. Is running more good than volleyball?
 ```
 
-
+# Episode2
 
 ```
 Professor: Now, uh, good morning, everybody. For this morning's lecture, we have with us Doctor Kate Hunter. She's an expert in sports science and today. She's going to talk to us about men, women and sport. That's right, isn't it?Dr Hunter: Yes, yes, that's correct.Professor: OK, so please can we welcome Doctor Hunter.Dr Hunter: Thank you, thank you. Can I just say that I'm very happy to be here with you this morning. I want to start with this question: Are men better than women in all sports?
@@ -128,8 +122,6 @@ kinds of exercise. I want to start with this question. Which sport is
 better for you?
 ```
 
-
-
 verb: do / play / go
 
 ```
@@ -152,8 +144,6 @@ I play volleyball.   He plays football.   Hiroshi plays baseball.
 We go skiing.   We go swimming.   Faisal goes running.
 ```
 
-
-
 prepositions (in / on / at) + particular nouns
 
 ```
@@ -163,8 +153,6 @@ Ginger plays squash at lunch times.
 People in my country play football on a field.
 Joanna does Kung-fu in the park.
 ```
-
-
 
 Prepositional phrases can be an adverb.
 
@@ -187,15 +175,11 @@ Philip plays volleyball for the university team.
 We watch baseball games on television.
 ```
 
-
-
 Subject-Verb-Object
 
 ```
 My sister cooks dinner.
 ```
-
-
 
 Subject-Verb-Adjective
 
@@ -203,15 +187,11 @@ Subject-Verb-Adjective
 Kung-fu is dangerous.
 ```
 
-
-
 Subject-Verb-Adverb
 
 ```
 I go running in the park in the morning.
 ```
-
-
 
 Academic writing skills
 
@@ -235,8 +215,6 @@ We play baseball in spring.
 On Monday, John does exercise.
 In May,  June,  July and August,  I play football.
 ```
-
-
 
 Reading 
 
@@ -292,8 +270,6 @@ Motor racing is fast and exciting, but it is too dangerous.
 So, they are good sports, but not suitable for me. 
 ```
 
-
-
 Reading
 
 ```
@@ -312,8 +288,6 @@ About 1 billion people in the world watch or play this game. The most popular co
 5. Motor racing
 Over 150 million people watch Formula 1 on television. Grand Prix races take place in over 18 countries, including Malaysia, Korea, Italy and the United Arab Emirates. Famous drivers include the Brazilian Ayrton Senna and Britain's Lewis Hamilton.
 ```
-
-
 
 Writing task
 
