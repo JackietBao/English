@@ -191,8 +191,6 @@ Noun phrases with of:
 · The train station is in the south of the city.
 ```
 
-
-
 there is / there are
 
 ```
@@ -235,8 +233,6 @@ is garudiya. It's a delicious fish soup.
 People in the Maldives like to swim and dive.
 ```
 
-
-
 The Maldives — AN OVERVIEW
 
 ```
@@ -274,8 +270,6 @@ The Maldives are islands in the Indian Ocean.
 My sister is in the United Arab Emirates.
 ```
 
-
-
 We use the before the names of:
 
 ```
@@ -288,8 +282,6 @@ We use the before the names of:
 · groups of mountains  (the Alps; the Himalayas)
 ```
 
-
-
 We use no article (the zero article) before the names of:
 
 ```
@@ -297,8 +289,6 @@ We use no article (the zero article) before the names of:
 · countries (China; Turkey; Chile)
 · cities (Abu Dhabi; Bangkok; Shanghai)
 ```
-
-
 
 Writing Task
 
@@ -317,8 +307,3 @@ Dhivehi, but Echo helps me talk with people in English.
 
 The scenery is very nice. I think you like it, too.
 ```
-
-
-
-
-
