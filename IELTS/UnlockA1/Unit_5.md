@@ -86,6 +86,13 @@ Women have stronger backs than men. Look at this photograph of a woman's lower b
 
 
 ```
+Teacher: ... OK, thank you, Sara. Very interesting! Now! Who’ s next? Alma: lt'sme. Teacher: Ah, yes, Alma. OK and you'’ re going to talk about ... ? Alma: I' m going tocompare two kinds of sport. Well, two kinds of exercise. Teacher: Yes, I remember now!Good, good. OK, so please go ahead. Alma: Thank you. OK, good afternoon, everybody!Today, many young people have an unhealthy lifestyle and this means they can beunhappy. This is a real problem. So  want to start with this question: How can we makeyoung people fitter? How can we make them healthier? Happier? Here' s one answer.Well, in fact, here are two answers. Pilates and zumba. These are two very good kinds ofexercise. They are more popular with women than men, but men can also do them.Now, why are they good for you? And are they the same or different? Well, they aredifferent for sure. Zumba is faster than pilates and, I think, people enjoy zumba more.There is music, you can dance with your friends, have a good time ... all very good. But isit better than pilates? We-e-l ... no. Pilates is slower than zumba. That' s true. But it's
+not a problem. ln fact, it means that it' s better for older people. Zumba is better foryour heart and you can lose more weight. But pilates is good for your bones andmuscles. That means it can make you stronger. Now, let' s look at ...
+```
+
+# Episode3
+
+```
 Today, many young people have an unhealthy lifestyle and this 
 means they can be unhappy. This is a real problem.
 So I want to start with this question: How can we make young 
@@ -249,8 +256,6 @@ You can buy tickets for motor-racing events online.
 Football is not the only popular sport in Brazil. Capoeira is an important part of Brazilian culture. It is a mix of martial arts, exercise and music. People do capoeira in groups. You can watch capoeira groups in the park or in the street. People come from around the world to Brazil to learn it. Why not learn capoeira when you are in Brazil? 
 ```
 
-
-
 Adjectives describe qualities.
 
 ```
@@ -300,60 +305,3 @@ Wang Liqin is a famous ping-pong player in the world.
 Millions of people are fans of this sport.
 The ticket price is also very cheap.
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
