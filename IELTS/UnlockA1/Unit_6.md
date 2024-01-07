@@ -1,3 +1,5 @@
+# Episode1
+
 LANGUAGE DEVELOPMENT
 
 ```
@@ -16,7 +18,7 @@ A farmer works on a farm.
 A pilot flies a plane.
 ```
 
-
+# Episode2
 
 ```
 What should I do? Should I study Turkish?
@@ -24,8 +26,6 @@ You should work hard.
 I think you should watch videos in English.
 I don't think you should drink a lot of coffee.
 ```
-
-
 
 Conversation A
 
@@ -58,8 +58,6 @@ Miriam: Oh, because my grades are good. I have good grades in science and Englis
 I think you should + verb… 
 
 I don't think you should + verb…
-
-
 
 Read the jobs website and answer the questions.
 
@@ -104,8 +102,6 @@ I would like to work with you.
 ```
 Paul: Morning, Emma! And how are you today?Emma: I'm fine thanks, Paul.Paul: Good, good. Now then – what do you have for me here?Emma: Well, here are two people for the job at the Sports Centre.Paul: I see. Which job is this? Is it for the fitness instructor? Or for the sports-centre nurse?Emma: This is for the fitness instructor. We're going to look at people for the nurse's job next week.Paul: Ah, next week, OK, I see. So, who's this?Emma: Well, this is Alan Green.Paul: Ah, I see he's an American.Emma: Yes. What do you think?Paul: Well, he's fit and strong … and he does a lot of sport. Football, basketball, karate, judo. That's great.Emma: But …?Paul: But, he's a student. I think a good fitness instructor should be a good teacher. I want a person who has experience, a person who can teach me tennis or volleyball.Emma: OK, well, here's Lucy Lau.Paul: Hmm. Ah good! She's a sports scientist … and she's a fitness instructor! That's great! So, I think Lucy is our new fitness instructor. What do you think?Emma: Well …Paul: You're not sure?Emma: Lucy is very good. But I think a fitness instructor has to be fit and strong. I think he – or she – has to be a good example for the students.Paul: Interesting, go on.Emma: We want a person who can make the students work hard. Lucy says 'it is important to be kind and polite'. That's a good idea. But if you want to be fit, you have to work hard. I think Alan can help people do that.Paul: I see, I see. But I think we should choose Lucy. She teaches zumba, pilates and yoga – and these are very popular right now.Emma: Mm, that's true. Would you like me to write to Lucy and tell her the good news?Paul: Yes, I think that would be …
 ```
-
-
 
 # Episode3
 
