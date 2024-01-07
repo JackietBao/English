@@ -262,6 +262,8 @@ Football is not the only popular sport in Brazil. Capoeira is an important part 
 
 Adjectives describe qualities.
 
+# Episode6
+
 ```
 · before a noun:popular sport, famous player
 · after is/are (not):Capoeira is special.
