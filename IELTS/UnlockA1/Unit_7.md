@@ -186,8 +186,6 @@ A car is more expensive than a bike.
 The Rockefeller Center is more modern than the Louvre Museum.
 ```
 
-
-
 # Episode6
 
 ```
