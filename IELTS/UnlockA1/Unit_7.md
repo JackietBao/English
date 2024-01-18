@@ -239,8 +239,6 @@ taller than the World Financial Center. The Burj Khalifa is also more
 modern than the other two buildings. It opened in 2010.
 ```
 
-
-
 How much money do skyscrapers cost?
 
 ```
@@ -249,8 +247,6 @@ buildings. The Burj Khalifa cost $1,500,000,000 to build. It was more
 expensive than the World Financial Center ($850,000,000) but it was 
 cheaper than Taipei 101. Taipei 101 cost $1,760,000,000.
 ```
-
-
 
 What is inside a skyscraper?
 
