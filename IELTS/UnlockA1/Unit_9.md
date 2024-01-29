@@ -69,8 +69,6 @@ What do you know about orangutans?
 
 # Episode3
 
- 
-
 ```
 Where do these animals live?
 What do they eat?
