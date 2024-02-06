@@ -34,13 +34,9 @@ about people in your family (I have… . My mother's a… . My father's a…)
 your plans for the future  (I want to…)
 ```
 
-
-
 ```
 My name's Jack and I'm from China. I'm 21 and I'm a student. I have one sister. We have a hotel in Shanghai. My mother and father are the managers. I want to get a PD.
 ```
-
-
 
 | topic       | key vocabulary                  |
 | ----------- | ------------------------------- |
@@ -61,6 +57,14 @@ Hi, hello. I'm Jack. I'm going to tell you about Koko. She's a student in our cl
 ```
 
 # Episode2
+
+![image-20240206212647804](assets/Unit_1/image-20240206212647804.png)
+
+![image-20240206212843609](assets/Unit_1/image-20240206212843609.png)
+
+![image-20240206212904026](assets/Unit_1/image-20240206212904026.png)
+
+![image-20240206214337239](assets/Unit_1/image-20240206214337239.png)
 
 The verb is before the subject in questions.
 
@@ -120,15 +124,11 @@ Normal clothes and shoes are too small.
 He went to Shanghai，Wuhan in China in 2023.
 ```
 
-
-
 ```
 Read the text again. 
 Write the correct words from the text in the gaps.
 Write the words from the box in the correct places in the table below.
 ```
-
-
 
 **介绍家庭成员**
 
