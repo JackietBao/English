@@ -154,3 +154,17 @@ Names of places: Istanbul is a big city in Turkey.
 The pronoun I: I have two sisters.
 ```
 
+# Episode6
+
+![image-20240207235236045](assets/Unit_1/image-20240207235236045.png)
+
+![image-20240207235410938](assets/Unit_1/image-20240207235410938.png)
+
+Possessive determiners are my, your, his, her, its, our and 
+
+their. 
+
+We use possessive determiners before a noun.
+
+![image-20240207235548093](assets/Unit_1/image-20240207235548093.png)
+
