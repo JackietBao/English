@@ -42,8 +42,6 @@ How many seasons are there in your country?
 When is each season?
 ```
 
-
-
 ```
 There are 4 seasons in China.
 They are spring, summer, autumn and winter.
@@ -57,14 +55,10 @@ What colour is ... ?
 It's ... / It can be ... or ...
 ```
 
-
-
 ```
 What colour are ... ?
 They're ... / They can be ... or ...
 ```
-
-
 
 ```
 What colour is snow? It's white. 
@@ -107,8 +101,6 @@ There's no sand. / There isn't any sand.
 There are no people on the beach. / There aren't any people on the beach.
 ```
 
-
-
 ```
 There is not = There isn't any + 单数名词 / 不可数名词
 There are not = There aren't any + 复数名词 
@@ -123,8 +115,6 @@ Is there a forest there?
 Is there a forest there?
 Are there any people on the beach?
 ```
-
-
 
 ```
 Is there + 单数名词 / 不可数名词 +？
@@ -142,22 +132,16 @@ There's a big forest.
 It's a rainy day.
 ```
 
-
-
 ```
 I'm Turkish. There's cold. It's windy.
 I'm an English teacher. It's a sunny day.
 There are white clouds in the sky.
 ```
 
-
-
 ```
 You are going to use the internet to find photographs of a landscape.
 Choose a country you would like to visit.
 ```
-
-
 
 ```
 Hello everybody! 
@@ -229,8 +213,6 @@ Egypt has dry weather.
 The average rainfall is 62mm.
 ```
 
-
-
 ```
 Cuba has a good climate.
 I have a happy family. 
@@ -291,8 +273,6 @@ In July,the average rainfall is 6 mm.
 The average rainfall is 360 mm in the monsoon season.
 ```
 
-
-
 ```
 In January, the weather is cold in Russia.
 The average temperature is 21℃ in July.
@@ -301,15 +281,11 @@ The weather is sunny on Tuesday.
 Sultan lives in Sharjah in the United Arab Emirates.
 ```
 
-
-
 ```
 Shanghai is in China. 
 Shanghai has four seasons. 
 The seasons are spring, summer, autumn and winter.
 ```
-
-
 
 ```
 Spring is from March to May. 
