@@ -21,6 +21,13 @@ This is a photograph of the Snow Centre near London.
 where do you think this is?
 ```
 
+听力
+
+```
+Professor: OK, so ... Today, l want to look at something new. l want to talk about man-made places- man-made environments in other words.Take a look at photograph 1. What can we see? Well, it's a hot day in summer. There's a beautiful beach next to ablue sea. There are people on the beach, But look again. In fact, it's not summer - it'swinter and there's snow outside. In other words, the beach, the sea - they're not natural.They're man-made ... but the people are real. This place is the Ocean Dome. lt's in Japan.And here, photograph 2, what can we see? Well, it's winter and there's a mountain. There's a lot of snow and people are skiing. Where is this? Canada? The north west United States?Well, in fact, this is, again, a man-made environment. The snow's inside, but outside it's a hot summer's day. This is a photograph of the Snow Centre near London.
+And now photograph 3. Here, we can see a desert. lt's hot and there's sand and there are rocks. Now, where do you think this is? ... anybody? Well, this is min Nebraska in the United States. lt's cold and there's snow outside. But inside ... well, you can see for yourself. A hot desert place.Now, what can these man-made places tell us about Zygmunt Bauman's ideas of ...
+```
+
 # Episode2
 
 句子
@@ -69,7 +76,7 @@ What colour are trees? They can be green or red.
 What colour are clouds? They're white. 
 ```
 
-文章
+听力
 
 ```
 Daniela: OK, so, good morning, everybody. I'm Daniela. OK, so, uh, I'm going to talk about two photographs of a place in spring. I'm from Naples in ltaly and I don't like to talk about cold places or places in winter - no, really, it's true! OK, so here's my first photograph. This isn't in ltaly. lt's in Turkey. lt's actually an island. And there's a town here. You can see there are a lot of white buildings. lt's a beautiful day in spring; very sunny, very nice. There's a nice forest there and ... my next photograph ... is from the forest. There's a park and it's good to go there when it's a hot day. And there's the town... and the sea, which is beautiful and blue. OK, so I chose these photographs because....
