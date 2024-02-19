@@ -12,13 +12,9 @@ Nice to meet you. My name is Ron Wesley, and I'm your partner today.
 3 What part of the body is in photograph C? What can you see in D?
 ```
 
-
-
 ```
 Beckham is a very famous football player. 
 ```
-
-
 
 ```
 1. Which sports do you play in a team?
@@ -28,8 +24,6 @@ Beckham is a very famous football player.
 5. Can people score a goal or a point in swimming?
 6. Which sports have a winner and a loser?
 ```
-
-
 
 ```
 Ron, are you interested in any of these sports?
@@ -83,8 +77,6 @@ Many people say 'Yes'. But is it true? Are they correct? And how do they know it
 Women have stronger backs than men. Look at this photograph of a woman's lower back. Women have three bones here but men have only two. This means that yoga is easier for women.OK, OK, there are some of you that think yoga isn't a sport. So let's look at the next photograph.Ah, tae kwon do! My favourite sport! Now, my research shows that women are better than men at tae kwon do. 'How?' I hear you ask. Well, women learn quicker than men. They are also faster. So, it's true that men are bigger and stronger, but they are not better than women in this sport.Student: But Doctor Hunter! Please can I ask you …
 ```
 
-
-
 ```
 Teacher: ... OK, thank you, Sara. Very interesting! Now! Who’ s next? Alma: lt'sme. Teacher: Ah, yes, Alma. OK and you'’ re going to talk about ... ? Alma: I' m going tocompare two kinds of sport. Well, two kinds of exercise. Teacher: Yes, I remember now!Good, good. OK, so please go ahead. Alma: Thank you. OK, good afternoon, everybody!Today, many young people have an unhealthy lifestyle and this means they can beunhappy. This is a real problem. So  want to start with this question: How can we makeyoung people fitter? How can we make them healthier? Happier? Here' s one answer.Well, in fact, here are two answers. Pilates and zumba. These are two very good kinds ofexercise. They are more popular with women than men, but men can also do them.Now, why are they good for you? And are they the same or different? Well, they aredifferent for sure. Zumba is faster than pilates and, I think, people enjoy zumba more.There is music, you can dance with your friends, have a good time ... all very good. But isit better than pilates? We-e-l ... no. Pilates is slower than zumba. That' s true. But it's
 not a problem. ln fact, it means that it' s better for older people. Zumba is better foryour heart and you can lose more weight. But pilates is good for your bones andmuscles. That means it can make you stronger. Now, let' s look at ...
@@ -102,8 +94,6 @@ and zumba. These are two very good kinds of exercise. They are
 more popular with women than men, but men can also do them.
 ```
 
-
-
 ```
 OK, good afternoon, everybody! Today, many young people have an 
 unhealthy lifestyle, and this means they can be unhappy. This is a real 
@@ -111,16 +101,12 @@ problem. So I want to start with this question: How can we make young
 people fitter? How can we make them healthier? Happier?
 ```
 
-
-
 ```
 OK, good afternoon, Ron! You have an unhealthy lifestyle, and this 
 means you can be unhappy. This is a real problem. So I want to start 
 with this question: How can we make you fitter? How can we make you 
 healthier? Happier?
 ```
-
-
 
 ```
 Ok, let me start again…
@@ -139,14 +125,10 @@ I do Kung-fu.   Mei does Karate.
 We do exercise for one hour every morning.
 ```
 
-
-
 ```
 ● play:team games / sports with a ball
 I play volleyball.   He plays football.   Hiroshi plays baseball.
 ```
-
-
 
 ```
 ● go:nouns with "-ing"
@@ -170,14 +152,10 @@ time:Faisal plays tennis on Wednesday.
      Pabea goes swimming in the evening.
 ```
 
-
-
 ```
 place:Children play football in the street.
       I go running in the park.
 ```
-
-
 
 ```
 Philip plays volleyball for the university team.
@@ -209,13 +187,9 @@ In summer, we go swimming.
 In the evenings, I watch TV.
 ```
 
-
-
 ```
 Faisal plays football, tennis, basketball and baseball.
 ```
-
-
 
 ```
 People play tennis in the park.
@@ -242,8 +216,6 @@ If you want to watch a football match, you can buy tickets from any
 tourist office.
 ```
 
-
-
 ```
 Motor racing is also popular. 
 Piquet, Senna and Massa are famous Formula 1 drivers from Brazil. 
@@ -253,8 +225,6 @@ at Interlagos Speedway.
 At other times of the year, you can watch Stock Car Brasil. 
 You can buy tickets for motor-racing events online.
 ```
-
-
 
 ```
 Football is not the only popular sport in Brazil. Capoeira is an important part of Brazilian culture. It is a mix of martial arts, exercise and music. People do capoeira in groups. You can watch capoeira groups in the park or in the street. People come from around the world to Brazil to learn it. Why not learn capoeira when you are in Brazil? 
@@ -270,8 +240,6 @@ Adjectives describe qualities.
                      Motor racing is exciting.
                      Football is not boring.
 ```
-
-
 
 ```
 Football is not boring, but it is too common. I want to learn 

@@ -18,8 +18,6 @@ There are not many tables.        People can take beautiful photographs.
 It's popular with tourists.       It's an interesting building.
 ```
 
-
-
 ```
 1
 Dale: OK, so we need a place for our new office. What about here?
@@ -92,8 +90,6 @@ ride on the escalator to the next floor.
 walk up the stairs to the next floor.
 ```
 
-
-
 ```
 There are over 140 different shops in the Al Wahda mall in Abu Dhabi.  
 In Wembley Stadium in London, 90,000 fans can watch football.
@@ -109,8 +105,6 @@ In winter, you can skate at the ice rink outside the Rockefeller Center in New Y
 There are over 30 million books in the National Library of China.
 ```
 
-
-
 ```
 Professor Michael Chan teaches design 
 to young architects at London School 
@@ -121,8 +115,6 @@ last 30 years. This week, Michael Chan
 tells us more about new home design 
 around the world.
 ```
-
-
 
 ```
 AW: What are your favourite home designs?
@@ -135,8 +127,6 @@ very narrow and the ceilings are very high. It is simple
 and very small inside.
 ```
 
-
-
 ```
 AW: What do you think about 'green' homes?
 MC: It is very important to build houses that are environ-
@@ -148,8 +138,6 @@ There are plants and trees in front of the glass walls. There
 is also a small garden on top of the roof. You can put 
 chairs and a table there and enjoy tea with your family.
 ```
-
-
 
 ```
 AW: What are popular building materials?
@@ -194,15 +182,11 @@ Taipei 101 is tall but the Burj Khalifa is taller than Taipei 101.
 Taipei 101 is tall but the Burj Khalifa is taller.
 ```
 
-
-
 ```
 The SM Mall of Asia is bigger than the Country Club Plaza. 
 The Country Club Plaza is older than the SM Mall of Asia. 
 The SM Mall of Asia is bigger than the Country Club Plaza but the Country Club Plaza is older.
 ```
-
-
 
 ```
 Malls are big buildings for [shopping]. They are near big cities.  
@@ -216,15 +200,11 @@ the first mall in the world. It is popular today but there are [bigger]
 malls in [America], [Europe], the [Gulf] and [Asia].
 ```
 
-
-
 ```
 What are skyscrapers?
 
 Skyscrapers are very tall buildings. They are usually more than 300 metres tall. You can see skyscrapers in cities around the world. Many countries build skyscrapers to attract tourists. There are many skyscrapers in Asia, the Gulf, America and Europe. Inside a skyscraper, there are offices, shops, restaurants and apartments.
 ```
-
-
 
 ```
 What are some famous skyscrapers?
@@ -260,8 +240,6 @@ shopping centres or malls inside them. A lot of people come shopping
 every day.
 ```
 
-
-
 ```
 We found a shopping mall to start your restaurant. The name of the 
 mall is Istanbul Cevahir. It is in Istanbul, Turkey.
@@ -276,30 +254,3 @@ Centre have the same number of cimemas, both 12.
 
 We believe this is a good place for you to start your restaurant. 
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

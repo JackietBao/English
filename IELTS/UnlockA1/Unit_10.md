@@ -57,8 +57,6 @@ For example, it takes a long time to get to your destination, so drivers
 need to use a lot of petrol …
 ```
 
-
-
 ```
 You can see in this photograph that this happened in Europe. A lot 
 of companies used old ships. Old ships were cheaper, but they had 
@@ -66,8 +64,6 @@ some problems. For example, petrol came out of the ships and into
 the rivers. The petrol killed the fish. Fishermen were angry because 
 they couldn't catch any fish.
 ```
-
-
 
 ```
 So, was it a good solution? Well, that's a very interesting question!
@@ -93,14 +89,3 @@ Every day, thousands of people use public and private transport. A popular form 
 
 The traffic in Bangkok is very heavy. The roads are full of different types of vehicle (cars, motorbikes, tuk-tuks, etc.). Most people spend more than one hour every day travelling. Almost 35% of people are late because of traffic jams. There are no traffic jams on the river. 11% of people take the river taxi.
 ```
-
-
-
-
-
-
-
-
-
-
-

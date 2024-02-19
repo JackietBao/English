@@ -11,16 +11,12 @@
 6.The economy is good here
 ```
 
-
-
 ```
 1. Where can you find lots of books?
 2. Where can you buy food?
 3. Where can you put your money?
 4. Where can you go for a walk?
 ```
-
-
 
 ```
 1. Where's the supermarket? Is it near the bank?
@@ -146,15 +142,11 @@ Can you tell me the way to the train station?
 I'm looking for the library. Is it near here?
 ```
 
-
-
 ```
 Excuse me! Can you tell me the way to the train station, please?
 Excuse me! I think I'm lost. Is there a café near here?
 Excuse me! How do I get to the Language Centre?
 ```
-
-
 
 ```
 1. It's opposite the International Business School.
@@ -167,13 +159,9 @@ Excuse me! How do I get to the Language Centre?
 8. It's there on the left. It's behind that school. 
 ```
 
-
-
 ```
 It's behind the International Business School. Go along Leeds Street and then turn left. Go along Hospital Road and turn left. There are three buildings on York Street. The bank is next to the café and opposite the gym on South Road.
 ```
-
-
 
 ```
 Go out of the square and turn left. Go along Racer Street and up the hill to the castle. Go around the castle and down Fort Street to the river, and then go over the bridge. Go across the road and through the park to a big tree. When you are under the tree, turn right and go into the tent.
@@ -204,8 +192,6 @@ there are: before plural nouns
 · There are many trees in a forest.
 · There are farms and hills in the countryside. 
 ```
-
-
 
 ```
 Muhammad Al-Idrisi came from Morocco. In his life, Al-Idrisi travelled to Asia, France, England and Spain.
@@ -260,8 +246,6 @@ factories. The currency is the rufiyaa.
 The climate is good in the Maldives.
 Abdulla and I are university students.
 ```
-
-
 
 ```
 There are four main islands in Japan.

@@ -253,19 +253,13 @@ and family."
      how the people look in the story.
 ```
 
-
-
 ```
 2) Pizza is a traditional meal in Italy.
 ```
 
-
-
 ```
 3) His daughters are different. Hande is tall but Adile is short.
 ```
-
-
 
 ```
 4) I love this book! The story is amazing!
@@ -282,8 +276,6 @@ cook. There is no school for the children.
 Parents teach their children the traditional 
 lifestyle of their people.
 ```
-
-
 
 ```
 The most important part of Kombai life is 
@@ -304,8 +296,6 @@ Facts about the lifestyle :
 4. When do you go to the library?
 5. When do you relax with friends?
 ```
-
-
 
 ```
 1. I am a student. I live in London. Abdullah is my friend.
@@ -334,8 +324,6 @@ a prepositional phrase for time
 • on + day of the week + part of the day: 
 ```
 
-
-
 ```
 I am a student. I live in London. Abdullah is my friend. I study English. 
 Abdullah studies physics and maths.
@@ -350,8 +338,6 @@ Thursday.
 I get up at 8 o'clock every morning. He gets up at 6 am every day. We 
 like our life in school.
 ```
-
-
 
 ```
 We read your book about the lifestyle of Kombai people, and we are very 

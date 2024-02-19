@@ -48,8 +48,6 @@ A: Well, I don't think you should study German or Chinese.
     should study Turkish.B: That's great, thanks!
 ```
 
-
-
 ```
 Lisa: Come in!Miriam: Hello! It's, uh, I'm Miriam.Lisa: Ah yes, Miriam! Please, come in. Take a seat.Miriam: Thank you.Lisa: So, how can I help you?Miriam: Well, I'm going to college next year.Lisa: Uh-huh.Miriam: I have to choose a course … but I don't know what to do. Should I go to medical school or should I go to music school? Should I be a doctor? A musician? Should I go to law school and become a lawyer?Lisa: Hmm. Those are good questions. Tell me about music school.Miriam: Well, there aren't many jobs for musicians. Well, OK, I'm sorry. That's not true. There are a lot of jobs in music – but it's a hard life. They work hard, but many musicians don't earn a lot of money.Lisa: I see. And what about medical school?Miriam: Well, a doctor's life … Wow! It's a good job. It's not boring and you can earn good money and help people.Lisa: Yes, that's true.Miriam: But … I don't know. Medical school's difficult. You have to work hard.Lisa: Hm. What do your parents say?Miriam: Well, my mother thinks I should go to medical school.Lisa: Why?
 Miriam: Oh, because my grades are good. I have good grades in science and English.Lisa: And what about your father?Miriam: Well, he says I can be a doctor or a lawyer or, well, anything I guess. What do you think? What should I do?Lisa: Well, you're a good student and you have good grades. But for now, I think you should get a job.Miriam: What? Why?Lisa: Well, I don't think you should go to university now because you don't know if you want to be a musician or a doctor … or a lawyer! I think you should get a job. Then you can go to university later when you know what …
@@ -68,14 +66,10 @@ Read the jobs website and answer the questions.
 4. What kind of person should apply?
 ```
 
-
-
 ```
 The UoY sports centre is for students and staff at UoY. We have sports for men and women here. We have a gym, a swimming pool, tennis courts, a football pitch, and a basketball court.
 We have courses in yoga, pilates, zumba, kung-fu, running, cycling, swimming, and many more.
 ```
-
-
 
 ```
 My name's Alan Green and I'm from 
@@ -97,8 +91,6 @@ A fitness instructor should help people.
 I would like to work with you.
 ```
 
-
-
 ```
 Paul: Morning, Emma! And how are you today?Emma: I'm fine thanks, Paul.Paul: Good, good. Now then – what do you have for me here?Emma: Well, here are two people for the job at the Sports Centre.Paul: I see. Which job is this? Is it for the fitness instructor? Or for the sports-centre nurse?Emma: This is for the fitness instructor. We're going to look at people for the nurse's job next week.Paul: Ah, next week, OK, I see. So, who's this?Emma: Well, this is Alan Green.Paul: Ah, I see he's an American.Emma: Yes. What do you think?Paul: Well, he's fit and strong … and he does a lot of sport. Football, basketball, karate, judo. That's great.Emma: But …?Paul: But, he's a student. I think a good fitness instructor should be a good teacher. I want a person who has experience, a person who can teach me tennis or volleyball.Emma: OK, well, here's Lucy Lau.Paul: Hmm. Ah good! She's a sports scientist … and she's a fitness instructor! That's great! So, I think Lucy is our new fitness instructor. What do you think?Emma: Well …Paul: You're not sure?Emma: Lucy is very good. But I think a fitness instructor has to be fit and strong. I think he – or she – has to be a good example for the students.Paul: Interesting, go on.Emma: We want a person who can make the students work hard. Lucy says 'it is important to be kind and polite'. That's a good idea. But if you want to be fit, you have to work hard. I think Alan can help people do that.Paul: I see, I see. But I think we should choose Lucy. She teaches zumba, pilates and yoga – and these are very popular right now.Emma: Mm, that's true. Would you like me to write to Lucy and tell her the good news?Paul: Yes, I think that would be …
 ```
@@ -111,13 +103,9 @@ I want a person who has experience, a person who can teach me tennis or volleyba
 We want a person who can make the students work hard.
 ```
 
-
-
 ```
 We want a person who is friendly and helpful.
 ```
-
-
 
 ```
 1. Fatima has two jobs.
@@ -137,14 +125,10 @@ A doctor gives people medicine.
 A doctor gives people medicine in hospital. 
 ```
 
-
-
 ```
 A vet looks after animals. 
 A vet looks after animals in farms and zoos. 
 ```
-
-
 
 ```
 1. very + an adjective
@@ -160,8 +144,6 @@ A vet looks after animals in farms and zoos.
 · Pilots are good at maths.
 ```
 
-
-
 ```
 You have to be very friendly. You have to be good with people.
 
@@ -169,8 +151,6 @@ You have to be very friendly and you have to be good with people.
 
 You have to be very friendly and good with people.
 ```
-
-
 
 ```
 Pankaj is an architect in Los Angeles.  His salary is $120,000 a year.
@@ -191,8 +171,6 @@ Renji Hospital is part of Shanghai Jiao Tong University School of Medicine. We t
 We are looking for a nurse to work at the hospital and train student nurses. You have to work early mornings and late nights.
 Applicants must have 10 years' experience. They must also speak fluent Chinese and English.
 ```
-
-
 
 ```
 What is the job?                               nurse
@@ -235,15 +213,11 @@ Doctors must be / have to be intelligent.
 Doctors must have / have to have a good education.
 ```
 
-
-
 ```
 have to + infinitive: I / we / you / they
 Managers have to be good with people.
 They have to be fit and strong.
 ```
-
-
 
 ```
 has to + infinitive: he / she / it
@@ -251,14 +225,10 @@ A manager has to be good with people.
 He has to be fit and strong.
 ```
 
-
-
 ```
 must + infinitive: I / you / he / she / it / we / they
 A nurse must be kind and helpful.
 ```
-
-
 
 ```
 something is not necessary: 
@@ -286,8 +256,6 @@ www.ukjobs.co.uk/Fitness-instructor
 Apply soon!
 ```
 
-
-
 ```
 I have found a great job for you. It's in Oslo – here's the link: 
 www.itcompany.org/jobs  I know this company.
@@ -296,8 +264,6 @@ You must have a university degree (in computer science!) and you have to
 have 2 years' experience. It also says that you must speak Norwegian. You 
 don't have to speak fluent Norwegian – so it's OK for you.
 ```
-
-
 
 ```
 I hope you're well. I have a great job for you. I think you'll like it – it's in South 
@@ -309,14 +275,10 @@ so this is a great job for you. You have to work long hours. But you are a very
 serious teacher. I know you work hard.
 ```
 
-
-
 ```
 One kind of contraction is do not → don't       does not → doesn't.
 She does not have to be strong. → She doesn't have to be strong.
 ```
-
-
 
 ```
 Dear Erik,
@@ -332,8 +294,6 @@ Good luck!
 GeekyJack
 ```
 
-
-
 ```
 Dear ______ (write your partner's name),
 I hope you're well. I have a great job for you. I think you'll like it – 
@@ -348,20 +308,3 @@ Here's the link: www.discoverjobs4you.com
 Good luck!
 ________(write your name)
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
