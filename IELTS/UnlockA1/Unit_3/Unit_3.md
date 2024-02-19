@@ -3,7 +3,7 @@
 句子
 
 ```
-1.  have  breakfast / lunch / dinner / coffee / a lesson / a lecture
+1. have  breakfast / lunch / dinner / coffee / a lesson / a lecture
 2. watch films / TV
 3. make breakfast / lunch / dinner / coffee 
 4. play football / basketball / tennis / computer games
@@ -12,10 +12,12 @@
 7. take a bus / a taxi / a train
 ```
 
+Use the present simple to talk about regular activities. 
 
+Add -s or -es to the verb after he / she / it.
 
 ```
-play tennis every week.
+I play tennis every week.
 He goes to work early. 
 You study English.
 It makes good coffee.
@@ -45,6 +47,18 @@ Where does she go every day?
 ★The verb have is irregular.   Use has with he / she / it.
 ```
 
+**时间表达**
+
+```
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+```
+
 句子
 
 ```
@@ -54,7 +68,7 @@ Where does she go every day?
 4. on + day of the week (e.g. Tuesday)
 ```
 
-
+文章
 
 ```
 This is Elodie. She's from France. She takes the  bus to university every day. The bus comes at 7:30. Elodie arrives at 8:30. She has a biology lecture at nine on Tuesday and Thursday. She has lunch with her friends at 12:30. Elodie has an English class at three o'clock in the afternoon. She goes to the cinema with her family on Friday evening.
@@ -62,8 +76,14 @@ This is Elodie. She's from France. She takes the  bus to university every day. T
 
 # Episode2
 
+**听力A**
+
 ```
-Aloha, Rookie, welcome to winter wonderland!
+Son:. ... it's going to be cold this winter. Reeeaally, really cold.Father: OK, so what's the problem? Son: Well, you know how l like to be healthy and do exercise ....Father:Yes, OK ....Son: The thing is, the university has a gym.Father: Ah! And the gym is warm?口Son: Yes, it is. lt's warm. l usually do exercise in the park, but this winter....Father: Do you need money for the gym?Son: Well, ...
+
+Lecturer: Um, Yes? Yes, the young man at the back there.Student: Thank you,Professor Davies, for such an interesting lecture. But l have a question ...Lecturer: Sure.Please, go ahead.Student: In the United States, do most young people live on their own now? l mean, do they have their own home? And they don't live with theirfamily?Lecturer: Ah! That's a good question. Yes, it is true, but only in some places. For example, New York and Los Angeles but not ...
+
+Student A: Here's your coffee.Student B: Oh thanks!Student A: l got some chocolate biscuits as well.Student B: Ooh! Nice!Student A: So, um, can you tell me about the video? What was it about?Student B: Hmmm. Sorry! Yeah, it was really, reall good.Student A: Oh?Student B: Yeah, so, it was about lifestyles of people in Canada.It's very cold there and so ...
 ```
 
 dialogues 
@@ -73,35 +93,25 @@ dialogues
    B: Yes, no problem. / I don't have time, I'm sorry.
 ```
 
-
-
 ```
 2. A: I'd like to ask some questions – is that OK?
    B: Yes, sure. / I'm sorry, I'm very busy.
 ```
-
-
 
 ```
 3. A: Good morning! I'm Sultan.
    B: Nice to meet you! / Good to see you! I'm Jack.
 ```
 
-
-
 ```
 4. A: Do you drink a lot of coffee?
    B: Yes, I think so / No, not really.
 ```
 
-
-
 ```
 5. A: I play football for my country.
    B: Really? / I see.
 ```
-
-
 
 ```
 6. A: I watch a lot of films.
