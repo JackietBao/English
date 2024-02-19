@@ -1,6 +1,6 @@
 # Episode1
 
-**听力**
+**听力A**
 
 ```
 Carlos: Hi, hello. I'm Carlos. I'm going to tell you about Koko. She's a student in our class. She's 18 and she's from Japan. Her family's from Sapporo. Her father's a teacher. She wants to study English at university.
@@ -74,7 +74,7 @@ She is from Turkey.              Is she from Turkey?
 You are from London.             Are you from London?
 ```
 
-**听力**
+**听力B**
 
 ```
 Marie: Hi! Good morning, everybody!
