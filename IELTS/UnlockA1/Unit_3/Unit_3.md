@@ -343,4 +343,3 @@ like our life in school.
 We read your book about the lifestyle of Kombai people, and we are very 
 interested in this traditional clan. They hunt in the jungle and build tree houses. There are several ways to improve the lifestyle of the Kombai people. From the book, we can see children do not go to school, so we advise that people should set up schools and teach children different kinds of courses.Besides, a hospital or medical care is necessary, because people may have accident when they hunt in the jungles or fall down from the treehouse.We are very interested in the lifestyle of the traditional group. Can you tell us more about these people? 
 ```
-
