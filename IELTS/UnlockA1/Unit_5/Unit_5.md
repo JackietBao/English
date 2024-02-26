@@ -71,11 +71,15 @@ Language Development Comparative Adjectives
 
 # Episode2
 
+`Listen`:a:
+
 ```
 Professor: Now, uh, good morning, everybody. For this morning's lecture, we have with us Doctor Kate Hunter. She's an expert in sports science and today. She's going to talk to us about men, women and sport. That's right, isn't it?Dr Hunter: Yes, yes, that's correct.Professor: OK, so please can we welcome Doctor Hunter.Dr Hunter: Thank you, thank you. Can I just say that I'm very happy to be here with you this morning. I want to start with this question: Are men better than women in all sports?
 Many people say 'Yes'. But is it true? Are they correct? And how do they know it's true? Many of my students, my male students that is, say 'Men are bigger and stronger than women. They are tougher and they can run faster – they must be better!'But these are opinions, not facts. There are in fact sports that women can do better than men. And this morning, I'm going to tell you about five of them.
 Women have stronger backs than men. Look at this photograph of a woman's lower back. Women have three bones here but men have only two. This means that yoga is easier for women.OK, OK, there are some of you that think yoga isn't a sport. So let's look at the next photograph.Ah, tae kwon do! My favourite sport! Now, my research shows that women are better than men at tae kwon do. 'How?' I hear you ask. Well, women learn quicker than men. They are also faster. So, it's true that men are bigger and stronger, but they are not better than women in this sport.Student: But Doctor Hunter! Please can I ask you …
 ```
+
+`Listen`:b:
 
 ```
 Teacher: ... OK, thank you, Sara. Very interesting! Now! Who’ s next? Alma: lt's me. Teacher: Ah, yes, Alma. OK and you'’ re going to talk about ... ? Alma: I' m going to compare two kinds of sport. Well, two kinds of exercise. Teacher: Yes, I remember now!Good, good. OK, so please go ahead. Alma: Thank you. OK, good afternoon, everybody!Today, many young people have an unhealthy lifestyle and this means they can be unhappy. This is a real problem. So  want to start with this question: How can we make young people fitter? How can we make them healthier? Happier? Here' s one answer.Well, in fact, here are two answers. Pilates and zumba. These are two very good kinds of exercise. They are more popular with women than men, but men can also do them.Now, why are they good for you? And are they the same or different? Well, they are different for sure. Zumba is faster than pilates and, I think, people enjoy zumba more.There is music, you can dance with your friends, have a good time ... all very good. But is it better than pilates? We-e-l ... no. Pilates is slower than zumba. That' s true. But it's
