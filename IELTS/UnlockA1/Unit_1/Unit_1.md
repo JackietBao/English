@@ -58,11 +58,21 @@ Hi, hello. I'm Jack. I'm going to tell you about Koko. She's a student in our cl
 
 # Episode2
 
+**Personal pronouns and possessive adjectives**
+
+> The personal 
+>
+> pronouns are underlined. The possessive adjectives are circled.
+
+![image-20240413134545056](assets/Unit_1/image-20240413134545056.png)
+
 ![image-20240206212647804](assets/Unit_1/image-20240206212647804.png)
 
 ![image-20240206212843609](assets/Unit_1/image-20240206212843609.png)
 
 ![image-20240206212904026](assets/Unit_1/image-20240206212904026.png)
+
+![image-20240413135120663](assets/Unit_1/image-20240413135120663.png)
 
 ![image-20240206214337239](assets/Unit_1/image-20240206214337239.png)
 
@@ -89,6 +99,10 @@ A-a-and this is my next photograph. This is Sir Harry Kroto. He's a famous scien
 
 # Episode3
 
+**An ideas map helps you think about the topic and organize informationabout it. It also helps you to remember key information and vocabulary.**
+
+![image-20240413141410098](assets/Unit_1/image-20240413141410098.png)
+
 ![image-20231210143407041](assets/Unit_1/image-20231210143407041.png)
 
 1. Who's the person in your ideas map?
@@ -102,6 +116,18 @@ A-a-and this is my next photograph. This is Sir Harry Kroto. He's a famous scien
 5. How old is he/she? 
 
 # Episode5
+
+**READ**
+
+A VERY tall man!
+
+Sultan Kӧsen is from Turkey. He lives in Mardin in Turkey. He lives with his family. Sultan lives with his mother, his three brothers and his sister.
+
+Sultan is a typical farmer. His hobby is watching TV. He is interested in music. His height is unusual. He is 251 cm tall – that is very tall. Sultan is the tallest man in the world. His mother, brother and sister are normal height.
+
+Sultan works on the farm. He has a tractor. His life is not easy. People look at him in the street. Normal clothes and shoes are too small. His clothes and shoes are very big.
+
+Sultan speaks Turkish and English. He went to London, Paris and Madrid in Europe in 2010. He went to New York, Chicago and Los Angeles in America in 2011.
 
 **大写**
 
