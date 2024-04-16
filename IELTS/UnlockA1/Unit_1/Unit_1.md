@@ -193,3 +193,60 @@ their.
 We use possessive determiners before a noun.
 
 ![image-20240207235548093](assets/Unit_1/image-20240207235548093.png)
+
+### Self-introduction
+
+> You name(I'm ....)
+>
+> Your occupation(I'm a/an...)
+>
+> Your country and hometown(I'm from...)
+>
+> about people in your family(I have... My father is a ... My mother is a ...)
+>
+> Your plans for the future(I want to...)
+
+> Hello!/Hi!
+>
+> I'm Jackie and I'm from Shanghai in Chine.
+>
+> I've learned english for ten years.
+>
+> There are four members in my family,they are My partens and youger sisters.
+>
+> My mother is a cooker,and my father is a driver.
+>
+> I'm a soft-engineer.
+>
+> I want to get a PD in the future.
+
+> Today I wounld like to talk about a famous woman in China,her name is ...
+>
+> She is a ...,I knew her from a ...
+>
+> And about his/her family,he/she ....
+>
+> She likes in ....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
