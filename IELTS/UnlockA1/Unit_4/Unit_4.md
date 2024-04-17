@@ -1,5 +1,9 @@
 # Episode1
 
+**Direction words**
+
+![image-20240417211323969](assets/Unit_4/image-20240417211323969.png)
+
 句子
 
 ```
@@ -43,6 +47,10 @@ At the bus stop over there. Can you see it?
 8. I'm looking for the park. Is it near the bridge?
 No. It's there on the left. It's behind that school.
 ```
+
+**Prepositions of place**
+
+![image-20240417212408895](assets/Unit_4/image-20240417212408895.png)
 
 # Episode2
 
