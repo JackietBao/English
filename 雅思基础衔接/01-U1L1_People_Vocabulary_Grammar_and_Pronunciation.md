@@ -190,6 +190,8 @@ South Africa [saʊθ 'æfrɪkə]南非
 
 ![image-20240320080210594](assets/01-U1L1_People_Vocabulary_Grammar_and_Pronunciation/image-20240320080210594.png)
 
+![image-20240429202456263](assets/01-U1L1_People_Vocabulary_Grammar_and_Pronunciation/image-20240429202456263.png)
+
 > The verb is before the subject in questions.
 >
 > 在疑问句中，动词出现在主语之前。
@@ -197,6 +199,45 @@ South Africa [saʊθ 'æfrɪkə]南非
 ![image-20240320080323845](assets/01-U1L1_People_Vocabulary_Grammar_and_Pronunciation/image-20240320080323845.png)
 
 ![image-20240320080351335](assets/01-U1L1_People_Vocabulary_Grammar_and_Pronunciation/image-20240320080351335.png)
+
+`习题`
+
+1Choose the correct answer for each of the questions. 选择正确的选项(单选)
+__name's Kerry.
+
+AShe BHer
+
+正确答案:B解析:选项的意思是“她的”。
+
+2 This bag is nice.ls__new?
+
+Ait Bits
+
+正确答案:A解析:这里需要的意思是“它”。
+
+3__teacher is from Egypt.
+
+ATheir BThey
+
+正确答案:A解析:
+选项的意思是“他们的”
+
+4__have a problem with_computer.
+
+A My;I B I;my
+
+正确答案:B
+解析:
+第一空意思是“我”，第二空的意思是“我的”
+
+5 Kate: Who are these people in this photograph?__they your brothers?
+Jack: No, they_my brothers.
+
+A Is;are B Are;are C Aren't;aren't D Are;aren't
+
+正确答案:D
+解析:
+第一空they后面搭配are使用;第二空表示否定的时候需要加not，缩略式为aren't
 
 ###  syllable stress
 
