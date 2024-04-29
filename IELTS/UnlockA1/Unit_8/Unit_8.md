@@ -1,5 +1,25 @@
 # Episode1
 
+`习题A`
+
+Correct the mistakes in the sentences
+
+1 There is some peppers on the plate.(1)__
+
+2 There isn't some fish in the bowl. (2)__
+
+3 How many rice is there? (3)__
+
+4 There are any lemons on the table.(4)__
+
+5 How much apples are there? (5)__
+
+正确答案:(1) There are some peppers on the plate. (2) There isn't any fish in the bowl. (3)How much rice is there? (4) There are some lemons on the table. / There are not anylemons on the table. / There aren't any lemons on the table. (5) How many apples arethere?
+解析:1 pepper是可数名词，谓语动词要用复数。
+2 fish为不可数名词，否定句中要用any。
+3 rice为不可数名词，应搭配much。
+4 lemon为可数名词，应用some修饰。如果此处改为否定句，用any就对了5 apple为可数名词，应用many修饰。
+
 # Episode2
 
 FACTS ABOUT FARMING
@@ -26,6 +46,62 @@ There are many more people who can't grow their own food. So they have to buy it
 Sofia: Hello! I'm Sofia. This afternoon, I'm going to tell you about the results of my survey. There were 20 students in my survey. My questions were on the topic of 'Food and culture'. I think this is an interesting topic.For example, I'm from Italy, and food is very important in my country and in my culture.OK, so my first question was 'Where are you from?' and here are the results. You can see here that 50% of students come from England and 15% come from Spain. 20% of students come from Italy, like me, and 15% of students come from Egypt. So you can see that half of the students are from England.OK, my second question was 'Is food important in your culture?'. The answers are interesting. You can see here that 'yes' is 70% and 'no' is 30%. That's six people! I was very surprised!My third question was 'Are family meals important?'. That is, is it important to eat with your family? Again, I was very surprised because again 'yes' is 70% and 'no'is 30%. 
 My last question was 'Why are family meals important?'. You can see here that the results are interesting. There were two answers to this question.First, 80% of people think family meals are a good place to talk. They think it's a good time for parents to see their children. Secondly, 20% of people think family meals are cheaper and healthier. They think that families cook fresh food and don't eat fast food.So my conclusion is that food is important in families and families are important in culture. Thank you! Any questions?
 ```
+
+`习题A`
+
+Listen to part of a lecture about food in cities. Are these statements true (T) orfalse (F)?
+1 A lot of people grow fruit and vegetables in cities. (1)__
+
+2 People in cities have more money than people in the country.(2)__
+
+3 Food becomes expensive when people eat more meat. (3)__
+
+4 Modern cities are bigger than before.(4)__
+
+5 Today, more people live in the country than in cities.(5)__
+
+正确答案:(1)F(2)T(3)T(4)T(5)F
+解析:暂无
+
+`习题B`
+
+Listen again. Write the number you hear next to the phrases
+1(1)__=important facts about cities
+
+2 more than(2)__%= money poor people spend on food
+
+3(3)__= number of cities with 10 million people (today)
+
+4 more than (4)__= number of cities with 20 million people (in 2045)
+
+5(5)__=fraction of people who live in cities (today)
+
+6(6)__%= people who live in cities (in 2045)
+
+正确答案:(1)4/four(2)60(3)30/thirty(4)50/fifty (5) half/1/2 (6)75
+
+解析: O’Connor: Thank you, thank you, everyone. Well, let's start, shall we? In mylecture tonight, l want to answer this question: 'How do we feed a city?' The questionis easy, but the answer is difficult. And it's an important question.Why? Well, there arefour important facts about cities that you have to know.First, cities don't have farms.True, some people have gardens and they can grow vegetables, fruit, etc. But not manypeople can do this.
+
+There are many more people who can’t grow their own food. So they have to buy itfrom supermarkets, from restaurants, etc.Secondly, people in cities are richer thanpeople in the country. True, there are poor people in cities; sometimes a lot of poorpeople. But there are many people that have money, and these people eat a lot of meat.They eat more lamb, more beef and more chicken than people in the country..This is abig problem. Before we can eat meat, we have to feed the animals. This means that foodfor people becomes food for animals. And that means that food becomes expensive -rice, bread, vegetables -they all become more expensive.min some countries, poorpeople spend more than sixty percent of their money on food.Thirdly, modern cities arebig and they are becoming bigger. Today, 30 cities have a population of more than tenmillion people. In 2045, we are going to have more than 50 cities with a population of 20million people .. that’s 20 million. Twenty.And the last fact. More than half the peoplein the world live in cities. In 2045, 75 per cent of people are going to live in cities. Morepeople and more cities means bigger problems.So! What can we do about this? Well,I'm going to ...0
+
+`习题C`
+
+Listen again. Are these statements about the report true (T) or false (F)?
+
+1 There were 30 students in the survey. (1)__
+
+2 40% of students are from Spain.(2)__
+3 Six students think food is not important in their culture. (3)__
+
+4 Six students think family meals are important. (4)__
+
+5 Many students think family meals are a good time to talk. (5)__
+
+6 Some students think family meals are cheaper. (6)__
+
+正确答案:(1)F(2)F(3)T(4)F(5)T(6)T
+
+解析:暂无
 
 # Episode3
 
