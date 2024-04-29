@@ -174,6 +174,58 @@ A car is more expensive than a bike.
 The Rockefeller Center is more modern than the Louvre Museum.
 ```
 
+`习题A`
+
+Correct the mistakes in the sentences below.(注意:一个句子可能有多处错误)
+
+1 The Louvre Museum is popular the British Museum.
+
+(1)__
+
+正确答案:(1) The Louvre Museum is more popular than the British Museum.
+解析:卢浮宫比大英博物馆更受欢迎。
+Adjectives with two or more syllables: expensive, beautifull, modern 🔜 more + adjective+than
+popular有3个音节，比较级应为more popular
+
+2 The Country Club Plaza is more small the lstanbul Cevahir
+
+(1)__
+
+正确答案:(1) The Country Club Plaza is smaller than the lstanbul Cevahir.
+
+解析:乡村俱乐部购物区比伊斯坦布尔塞维黑尔购物中心小一些。Adjectives with one/two syllables : small, old, wide, narrow, quiet → -(e)r + thansmall的比较级为smaller
+
+3 Wood is more expensive that plastic.
+
+(1)__
+
+正确答案:(1)Wood is more expensive than plastic.
+
+解析:木头比塑料更贵。表示比较级要加than
+
+4 New York is more busy than Kansas City.
+
+(1)__
+
+正确答案:(1) New York is busier than Kansas City.
+
+解析:纽约比堪萨斯州更繁忙。Adjectives with two syllables that end in a consonant + -y: ugly, busy🔜-ier (we replace-y with -i)+ than
+
+busy的比较级为busier
+
+`习题B`
+
+Join sentences below to make one sentence with but.
+The Burj Khalifa has more floors than Taipei 101.
+
+Taipei 101 has more lifts than the Burj Khalifa.
+
+(1)__
+
+正确答案:(1) The Burj Khalifa has more floors than Taipei 101 but Taipei 101 has more
+lifts.
+解析:省去重复部分即可。
+
 # Episode6
 
 ```
@@ -254,3 +306,33 @@ Centre have the same number of cimemas, both 12.
 
 We believe this is a good place for you to start your restaurant. 
 ```
+
+`习题A`
+
+Skyscrapers
+What are skyscrapers?
+Skyscrapers are very tall buildings. They are usually more than 300 metres tall.You can see skyscrapers in cities around the world. Many countries buildskyscrapers to attract tourists. There are many skyscrapers in Asia, the GulfAmerica and Europe. Inside a skyscraper, there are offices, shops, restaurantsand apartments.
+
+What are some famous skyscrapers?The Empire State Building in New York is a world-famous skyscraper. lt hastwo million visitors every year. lt is popular with tourists but there are tallerand more modern skyscrapers in the Gulf and in Asia. The Shanghai WorldFinancial Center, Taipei 101 and the Buri Khalifa in Dubai, are taller than theEmpire State Building. The Burj Khalifa is taller than the World Financial Centerand Taipei 101.Taipei 101 is taller than the World Financial Center. The BurjKhalifa is also more modern than the other two buildings. lt opened in 2010.
+
+How much money do skyscrapers cost?Skyscrapers are very expensive. They cost more money than other buildings.The Buri Khalifa cost $1,500,000,000 to build. lt was more expensive than theWorld Financial Center ($850,000,000) but it was cheaper than Taipei 101.Taipei 101 cost $1,760,000,000.
+
+What is inside a skyscraper?The Burj Khalifa has 163 floors. This is more than Taipei 101 or the WorldFinancial Center. They have 101 floors each. All skyscrapers have lifts. Taipei101 has more lifts than the Burj Khalifa or the World Financial Center. lt has 61lifts. The Burj Khalifa has 57 lifts but the World Financial Center has only 31Many skyscrapers also have shopping centres or malls inside them. A lot ofpeople come shopping every day.
+
+指出每个代词所指的名词各是什么:(在横线上填入对应字母)
+
+a. Shanghai World Financial Center
+b. Taipei 101
+c. Burj Khalifa
+
+1.(1)lt was more expensive than the Shanghai World Financial Center($850,000,000)or the Burj Khalifa ($1,500,000,000).
+
+2.(2)___It opened in 2010.
+
+3.(3)___It has 61 lifts
+
+正确答案:(1)b(2)c(3)b
+解析:1.参见第三段: The Burj Khalifa cost$1,500,000,000 to build. lt was more expensivethan the World Financial Center ($850,000,000) but it was cheaper than Taipei 101.
+
+2. 参见第二段: The Burj Khalifa is also more modern than the other two buildings. ltopened in 2010.
+3. 3.参见最后一段: Taipei 101 has more lifts than the Burj Khalifa or the World FinancialCenter. lt has 61 lifts.
