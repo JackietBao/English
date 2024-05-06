@@ -120,7 +120,113 @@ My last question was …
 · Yoghurt is healthy.             · Yoghurts are healthy.    X
 ```
 
+`习题A`
+
+Sofia uses six statements to introduce her report. Number the sentences in thecorrect order (1-6).
+My questions were on the topic of 'Food and culture. (1)__
+
+This afternoon, i'm going to tell you about the results of my survey.(2)__
+There were 20 students in my survey. (3)__
+
+I'm Sofia.(4)__
+
+I think this is an interesting topic. (5)__
+
+Hello!(6)__
+
+正确答案:(1)5(2)3(3)4(4)2(5)6(6)1解析:暂无
+
+`习题B`
+
+Listen to two more introductions. Write the words and numbers from the box
+in the gaps below.
+
+I'm Tomoko.i'm going to tell you about the results of my survey. There were (2)
+
+(2)__students in my survey.My topic was '(3)(3)_Japanese food.think this is an (4)(4)_
+topic.
+
+2.Hello,(5)(5)__!I'm Ahmed.i'm going to tell you about the results ofmy survey.
+
+My topic was '(6)(6)__food in Abu Dhabi'.There were(7)
+
+(7)__students in my survey.lthink this is a (8)(8)_topic.
+
+34 50 everybody fast good
+morning traditional interesting
+
+正确答案:(1)morning (2)34 (3) traditional (4)interesting (5)everybody (6) fast (7)50 (8)
+good解析:暂无
+
+`习题C`
+
+Listen again. Write the correct phrases (a-h) in the gaps in the statements (1-8).(填入序号a~h)
+a My last question was
+b my second question was
+c interesting
+d My third question wase You can see here thatf to this question
+g So you can see that
+h my first question was
+
+1 OK, so (1)__,'Where are you from?'
+
+2(2)__half of the students are from England.
+
+3 OK,(3)'__ls food important in your culture?'
+4 The answers are (4)_
+5(5)_'yes'is 70% and 'no'is 30%!'
+
+6(6)Are family meals important?'
+
+6(7)__'Why are family meals important?'
+8 There were two answers (8)_
+
+正确答案:(1)h(2)g(3)b(4)c(5)e(6) d (7)a(8)f解析:暂无
+
 # Episode4
+
+`习题A`
+
+根据名词是否是可数名词，判断下列句子正误1 Honeys are sweet.
+
+a.正确
+b. 错误
+
+正确答案:B
+解析:honey蜂蜜为不可数名词，应为Honeyis sweet.
+
+2 Onions are popular in European cuisine.
+
+a.正确
+b. 错误
+
+正确答案:A解析:onion为可数名词。
+
+3 Chillis are spicy.
+
+a.正确
+b.错误
+
+正确答案:A解析:chili为可数名词。
+
+4 Date are in many kinds of soup
+
+a.正确
+b. 错误 
+
+正确答案:B
+解析:date枣为可数名词。应为Dates are in many kinds of soup.
+
+`习题B`
+
+选择正确的句子:
+
+A. Fish are popular in many restaurants inlstanbul.
+B B. French onion soup are delicious
+C. Nigerian chefs prepare pepper soupwith fish or meat.
+
+正确答案:C
+解析:A. 鱼肉在伊斯坦布尔的很多餐馆流行。fish作为“鱼肉”来讲时,是不可数名词。该句应为Fish is popular in many restaurants in lstanbul.B.法式洋葱汤很美味。soup为不可数名词。该句应为French onion soup is delicious.C.尼日利亚的厨师用鱼或肉来做胡椒汤。
 
 # Episode5
 
@@ -145,6 +251,91 @@ The British usually eat biscuits with their tea. In Japan, they like…
 · Add some honey to the dish. 
 · English people drink tea with some milk.
 ```
+
+`习题A`
+
+Write the words from the box in the gapsleaves prepare guests tastes pull pour kettle
+
+1 Chocolate(1)         very good
+
+2 In London, the(2)        fall from the trees in autumn.
+
+3 Canl(3)        some orange juice?
+
+4 Many Japanese chefs can(4)      sushi.
+
+5 You have to (5)      the door to open it, not push!
+
+6 l make hot water in an electric(6)    
+
+7 There are five(7)      for my birthday dinner this evening
+
+正确答案:(1)tastes (2)leaves (3)pour (4) prepare (5) pull (6) kettle (7)guests解析:1巧克力尝起来味道不错。
+2 在伦敦，树叶秋天落下。
+3 我能倒一些橙汁吗?
+4 许多日本厨师能准备寿司,
+5 开门时你得拉而不是推!
+6 我用电热水壶加热水。
+7 今晚我的生日宴将有5位客人。
+
+`习题B`
+
+Choose the correct options.
+1 The three texts are from    .
+
+A A. the same book
+B B. different books
+
+正确答案:A
+解析:文本皆来自于同一本书-Tea: A World History (by A.Capper)
+
+2 The photographs are of      .
+
+A A. the same country
+B B. different countries
+
+正确答案:B
+解析:图一为马来西亚吉隆坡，图二为俄国，图三为土耳其。
+
+3 The texts come from         history of tea
+
+A A. an internationa
+B B.an Asian
+
+正确答案:A
+解析:从INTRODUCTION: THE WORLD IN A TEACUP可以看出是世界范围的。
+
+`习题C`
+
+Tea: A World History by A. CapperINTRODUCTION: THE WORLD IN A TEACUPTea is tasty and good for you. lt is also one of the most popular drinks aroundthe world. But what is tea? And why is it so popular?
+
+All tea comes from tea leaves but tea is not always the same. There are manykinds of tea. You can drink black tea, green tea, white tea or fruit tea. Eachtype of tea has a different taste and a different colour.
+
+The history of tea begins in Asia. In China, Korea and Japan, tea is still veryimportant today. In Japan, it can take many hours to prepare and drink teawith your guests. In Malaysia, a popular drink at breakfast is teh tarik ('pulledtea'). Malaysians say it is good for you and tastes good with canai bread.
+
+Tourists in Kuala Lumpur like watching the tea sellers make 'pulled tea'. Thetea sellers pour hot water on black tea. After five minutes, they add sugar andmilk. Then they 'pull' the tea - they pour the tea from one cup to anothermany times.
+In many countries, you must have a special kettle to make tea. People indifferent countries also like to add different things to their tea. For example.Russians use a special kettle called a samovar. They like drinking tea withlemon.Sometimes, they also drink tea with some sugar or jam.
+
+In Turkey, tea comes in a Caydanlik. A Caydanlik has two kettles: one for thewater and one for the tea. Drink Turkish tea with some sugar.
+
+Arab tea, called karak, has cardamon, ginger, milk and sugar. In the UnitedKingdom, they add some milk and sugar.The British usually eat biscuits with their tea. In Japan, they like...
+
+Scan the text. Write the names of the correct countries from the texts in the
+gaps.
+
+1 People in(1)       drink teh tarik,
+2 In(2),         people prepare tea in a samovar.
+
+3 People prepare tea for many hours in (3)        
+
+4 Some people   in(4)       drink tea with sugar or jam.
+
+5 People prepare tea with two kettlesin(5)          
+
+6 Tourists like watching tea sellers prepare tea in (6)   
+
+正确答案:(1)Malaysia(2) Russia (3)Japan (4)Russia (5)Turkey (6) Malaysia解析:1 参见第三段In Malaysia, a popular drink at breakfast is teh tarik ('pulled tea').2 参见第五段For example, Russians use a special kettle called a samovar.3 参见第三段In Japan, it can take many hours to prepare and drink tea with your guests.4 参见第五段For example, Russians use a special kettle called a samovar. They likedrinking tea with lemon. Sometimes, they also drink tea with some sugar or jam.5 参见倒数第三段In Turkey, tea comes in a Caydanlik. A Caydanlik has two kettles: one for
+the water and one for the tea.6 参见第四段Tourists in Kuala Lumpur like watching the tea sellers make:'pulled tea'.吉隆坡为马来西亚原首都。
 
 # Episode6
 
@@ -183,3 +374,19 @@ are very popular. Beijing Roast Duck (which food?) is also
 famous for savoury sauces and tender meat (what kind of 
 food or what kind of dishes?).
 ```
+
+`习题A`
+
+Write the words and phrases from the box in the gaps.is served in dish is served with cuisine serves
+
+![image-20240506215758898](assets/Unit_8/image-20240506215758898.png)
+
+![image-20240506215814412](assets/Unit_8/image-20240506215814412.png)
+
+`习题B`
+
+![image-20240506215846496](assets/Unit_8/image-20240506215846496.png)
+
+![image-20240506215906174](assets/Unit_8/image-20240506215906174.png)
+
+![image-20240506215913372](assets/Unit_8/image-20240506215913372.png)
