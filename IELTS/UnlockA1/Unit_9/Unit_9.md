@@ -24,6 +24,30 @@ in large groups called a 'swarm'. There are
 millions of these insects in each swarm.
 ```
 
+`习题A`
+
+![image-20240507212929904](assets/Unit_9/image-20240507212929904.png)
+
+![image-20240507212942753](assets/Unit_9/image-20240507212942753.png)
+
+正确答案:(1)a(2)a(3)a(4)b(5)b
+
+`习题B`
+
+![image-20240507213023931](assets/Unit_9/image-20240507213023931.png)
+
+![image-20240507213100738](assets/Unit_9/image-20240507213100738.png)
+
+![image-20240507213037713](assets/Unit_9/image-20240507213037713.png)
+
+![image-20240507213110865](assets/Unit_9/image-20240507213110865.png)
+
+`习题C`
+
+![image-20240507213133045](assets/Unit_9/image-20240507213133045.png)
+
+![image-20240507213140311](assets/Unit_9/image-20240507213140311.png)
+
 # Episode2
 
 ```
@@ -60,6 +84,18 @@ What do you know about orangutans?
 2. What do they eat?
 3. Where do they live?
 ```
+
+`习题A`
+
+![image-20240507213214401](assets/Unit_9/image-20240507213214401.png)
+
+正确答案:(1)3(2)2(3)4(4)1
+
+`习题B`
+
+![image-20240507213247888](assets/Unit_9/image-20240507213247888.png)
+
+正确答案:(1)d(2)b(3)e(4)a(5)c
 
 # Episode3
 
