@@ -120,6 +120,36 @@ fruit, fish, vegetables, nuts and grass.So why are they special? Well, they are 
 move rocks and trees and other big things easily.
 ```
 
+`习题A`
+
+![image-20240508210224988](assets/Unit_9/image-20240508210224988.png)
+
+![image-20240508210248883](assets/Unit_9/image-20240508210248883.png)
+
+![image-20240508210258600](assets/Unit_9/image-20240508210258600.png)
+
+`习题B`
+
+![image-20240508210353652](assets/Unit_9/image-20240508210353652.png)
+
+![image-20240508210403925](assets/Unit_9/image-20240508210403925.png)
+
+![image-20240508210418612](assets/Unit_9/image-20240508210418612.png)
+
+![image-20240508210429934](assets/Unit_9/image-20240508210429934.png)
+
+`习题C`
+
+![image-20240508210457556](assets/Unit_9/image-20240508210457556.png)
+
+![image-20240508210506530](assets/Unit_9/image-20240508210506530.png)
+
+`习题D`
+
+![image-20240508210528113](assets/Unit_9/image-20240508210528113.png)
+
+![image-20240508210535652](assets/Unit_9/image-20240508210535652.png)
+
 # Episode4
 
 ```
@@ -177,6 +207,20 @@ Female redback spiders live for two or three years.
 live for: 寿命……
 live for two or three years 寿命为2~3年
 ```
+
+`习题A`
+
+![image-20240508210610679](assets/Unit_9/image-20240508210610679.png)
+
+![image-20240508210617948](assets/Unit_9/image-20240508210617948.png)
+
+`习题B`
+
+![image-20240508210641249](assets/Unit_9/image-20240508210641249.png)
+
+![image-20240508210649022](assets/Unit_9/image-20240508210649022.png)
+
+![image-20240508210657112](assets/Unit_9/image-20240508210657112.png)
 
 # Episode5
 
