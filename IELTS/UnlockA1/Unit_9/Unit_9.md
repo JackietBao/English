@@ -245,6 +245,12 @@ strong→ the strongest  · Many of the strongest animals in the world live in A
 · The smallest animal in the world lives in Asia.
 ```
 
+`习题A`
+
+![image-20240509185222606](assets/Unit_9/image-20240509185222606.png)
+
+![image-20240509185234128](assets/Unit_9/image-20240509185234128.png)
+
 # Episode6
 
 ```
@@ -271,3 +277,17 @@ Australia has many strange animals. The most surprising Australian animal is the
 
 The smallest mammal in the world lives in Asia. It is the bumblebee bat (Craseonycteris thonglongyai). It lives in Thailand. It is only 2.5 cm long and it weighs 3 g. There are only 2,000 bumblebee bats left in Thailand because people burn the forest where they live.
 ```
+
+`习题A`
+
+![image-20240509185310951](assets/Unit_9/image-20240509185310951.png)
+
+![image-20240509185319427](assets/Unit_9/image-20240509185319427.png)
+
+`习题B`
+
+![image-20240509185357339](assets/Unit_9/image-20240509185357339.png)
+
+![image-20240509185413690](assets/Unit_9/image-20240509185413690.png)
+
+![image-20240509185423133](assets/Unit_9/image-20240509185423133.png)
