@@ -28,6 +28,7 @@ So what did we do? We needed a faster ticket system, and this was the Oyster car
 
 `习题A`
 
+<<<<<<< HEAD
 ![image-20240511215339222](assets/Unit_10/image-20240511215339222.png)
 
 ![image-20240511215349423](assets/Unit_10/image-20240511215349423.png)
@@ -69,6 +70,29 @@ So what did we do? We needed a faster ticket system, and this was the Oyster car
 ![image-20240511215712096](assets/Unit_10/image-20240511215712096.png)
 
 ![image-20240511215721606](assets/Unit_10/image-20240511215721606.png)
+=======
+![image-20240510090236992](assets/Unit_10/image-20240510090236992.png)
+
+![image-20240510090321912](assets/Unit_10/image-20240510090321912.png)
+
+![image-20240510090249269](assets/Unit_10/image-20240510090249269.png)
+
+![image-20240510090335403](assets/Unit_10/image-20240510090335403.png)
+
+![image-20240510090301979](assets/Unit_10/image-20240510090301979.png)
+
+![image-20240510090346806](assets/Unit_10/image-20240510090346806.png)
+
+`习题B`
+
+![image-20240510090709749](assets/Unit_10/image-20240510090709749.png)
+
+![image-20240510090724097](assets/Unit_10/image-20240510090724097.png)
+
+![image-20240510090742379](assets/Unit_10/image-20240510090742379.png)
+
+![image-20240510090754824](assets/Unit_10/image-20240510090754824.png)
+>>>>>>> 7f5df3959c117788aacfa35ae19e274df8fe9185
 
 # Episode2
 
@@ -92,6 +116,7 @@ Some countries said that bicycles would be a good idea and have free bicycles in
 
 `习题A`
 
+<<<<<<< HEAD
 ![image-20240511215748725](assets/Unit_10/image-20240511215748725.png)
 
 ![image-20240511215805799](assets/Unit_10/image-20240511215805799.png)
@@ -111,6 +136,11 @@ Some countries said that bicycles would be a good idea and have free bicycles in
 ![image-20240511215914636](assets/Unit_10/image-20240511215914636.png)
 
 ![image-20240511215925249](assets/Unit_10/image-20240511215925249.png)
+=======
+![image-20240510090953441](assets/Unit_10/image-20240510090953441.png)
+
+![image-20240510091003208](assets/Unit_10/image-20240510091003208.png)
+>>>>>>> 7f5df3959c117788aacfa35ae19e274df8fe9185
 
 # Episode3
 

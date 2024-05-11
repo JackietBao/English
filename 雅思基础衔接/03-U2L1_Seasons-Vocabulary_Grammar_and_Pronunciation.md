@@ -198,6 +198,30 @@
 
 ![image-20240325201351931](assets/03-U2L1_Seasons-Vocabulary_Grammar_and_Pronunciation/image-20240325201351931.png)
 
+`习题A`
+
+![image-20240510085524787](assets/03-U2L1_Seasons-Vocabulary_Grammar_and_Pronunciation/image-20240510085524787.png)
+
+![image-20240510085846136](assets/03-U2L1_Seasons-Vocabulary_Grammar_and_Pronunciation/image-20240510085846136.png)
+
+![image-20240510085606891](assets/03-U2L1_Seasons-Vocabulary_Grammar_and_Pronunciation/image-20240510085606891.png)
+
+![image-20240510085903865](assets/03-U2L1_Seasons-Vocabulary_Grammar_and_Pronunciation/image-20240510085903865.png)
+
+![image-20240510085712438](assets/03-U2L1_Seasons-Vocabulary_Grammar_and_Pronunciation/image-20240510085712438.png)
+
+![image-20240510085920445](assets/03-U2L1_Seasons-Vocabulary_Grammar_and_Pronunciation/image-20240510085920445.png)
+
+![image-20240510085724498](assets/03-U2L1_Seasons-Vocabulary_Grammar_and_Pronunciation/image-20240510085724498.png)
+
+![image-20240510085935213](assets/03-U2L1_Seasons-Vocabulary_Grammar_and_Pronunciation/image-20240510085935213.png)
+
+![image-20240510085745344](assets/03-U2L1_Seasons-Vocabulary_Grammar_and_Pronunciation/image-20240510085745344.png)
+
+![image-20240510085821973](assets/03-U2L1_Seasons-Vocabulary_Grammar_and_Pronunciation/image-20240510085821973.png)
+
+![image-20240510085953979](assets/03-U2L1_Seasons-Vocabulary_Grammar_and_Pronunciation/image-20240510085953979.png)
+
 ### 小结
 
 ![image-20240325201433365](assets/03-U2L1_Seasons-Vocabulary_Grammar_and_Pronunciation/image-20240325201433365.png)
