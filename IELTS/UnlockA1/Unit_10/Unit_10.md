@@ -26,6 +26,50 @@ Steve: Each passenger waited to buy a ticket and then they went to the gate. At 
 So what did we do? We needed a faster ticket system, and this was the Oyster card. It's an electronic ticket and it's very easy to use. You can pay for your journeys online and you can walk through the gates much faster. It's a great way …
 ```
 
+`习题A`
+
+![image-20240511215339222](assets/Unit_10/image-20240511215339222.png)
+
+![image-20240511215349423](assets/Unit_10/image-20240511215349423.png)
+
+![image-20240511215411782](assets/Unit_10/image-20240511215411782.png)
+
+![image-20240511215418712](assets/Unit_10/image-20240511215418712.png)
+
+![image-20240511215428663](assets/Unit_10/image-20240511215428663.png)
+
+![image-20240511215437187](assets/Unit_10/image-20240511215437187.png)
+
+`习题B`
+
+![image-20240511215453332](assets/Unit_10/image-20240511215453332.png)
+
+![image-20240511215504658](assets/Unit_10/image-20240511215504658.png)
+
+![image-20240511215514575](assets/Unit_10/image-20240511215514575.png)
+
+![image-20240511215520950](assets/Unit_10/image-20240511215520950.png)
+
+`习题C`
+
+![image-20240511215544162](assets/Unit_10/image-20240511215544162.png)
+
+![image-20240511215552581](assets/Unit_10/image-20240511215552581.png)
+
+![image-20240511215604071](assets/Unit_10/image-20240511215604071.png)
+
+![image-20240511215615811](assets/Unit_10/image-20240511215615811.png)
+
+![image-20240511215628124](assets/Unit_10/image-20240511215628124.png)
+
+`习题D`
+
+![image-20240511215657762](assets/Unit_10/image-20240511215657762.png)
+
+![image-20240511215712096](assets/Unit_10/image-20240511215712096.png)
+
+![image-20240511215721606](assets/Unit_10/image-20240511215721606.png)
+
 # Episode2
 
 ```
@@ -45,6 +89,28 @@ For example, it takes a long time to get to your destination, so drivers need to
 
 Some countries said that bicycles would be a good idea and have free bicycles in the city for people to use. Another place where the government is working hard to improve the transport system is in Dubai. Firstly, the plan is to reduce traffic congestion by making public transport better, so they have introduced more buses and bus routes and also built a metro railway. But the problem is that buses get stuck in traffic jams, and commuters still have to drive to metro stations. So the plan for the future is to make the metro system bigger by going underground – like the London Underground – and also to go over the city with sky trains like they have in Bangkok. Also, because it is very hot in Dubai, they will build air conditioned sky bridges with travelators to connect the stations so that people can walk around easily and won't need to drive …
 ```
+
+`习题A`
+
+![image-20240511215748725](assets/Unit_10/image-20240511215748725.png)
+
+![image-20240511215805799](assets/Unit_10/image-20240511215805799.png)
+
+`习题B`
+
+![image-20240511215823248](assets/Unit_10/image-20240511215823248.png)
+
+![image-20240511215830428](assets/Unit_10/image-20240511215830428.png)
+
+`习题C`
+
+![image-20240511215852462](assets/Unit_10/image-20240511215852462.png)
+
+![image-20240511215904365](assets/Unit_10/image-20240511215904365.png)
+
+![image-20240511215914636](assets/Unit_10/image-20240511215914636.png)
+
+![image-20240511215925249](assets/Unit_10/image-20240511215925249.png)
 
 # Episode3
 
