@@ -1,5 +1,7 @@
 # Episode1
 
+
+
 # Episode2
 
 # Episode3
@@ -50,4 +52,22 @@
 
 # Episode5
 
+`习题A`
+
+![image-20240512225816168](assets/Unit_10/image-20240512225816168.png)
+
+![image-20240512225824204](assets/Unit_10/image-20240512225824204.png)
+
+`习题B`
+
+![image-20240512225845728](assets/Unit_10/image-20240512225845728.png)
+
+![image-20240512225856165](assets/Unit_10/image-20240512225856165.png)
+
 # Episode6
+
+`习题A`
+
+![image-20240512230012581](assets/Unit_10/image-20240512230012581.png)
+
+![image-20240512230511441](assets/Unit_10/image-20240512230511441.png)
