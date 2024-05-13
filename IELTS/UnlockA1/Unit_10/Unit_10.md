@@ -1,8 +1,12 @@
 # Episode1
 
-
-
 # Episode2
+
+`习题A`
+
+![image-20240513082751112](assets/Unit_10/image-20240513082751112.png)
+
+![image-20240513082800048](assets/Unit_10/image-20240513082800048.png)
 
 # Episode3
 
