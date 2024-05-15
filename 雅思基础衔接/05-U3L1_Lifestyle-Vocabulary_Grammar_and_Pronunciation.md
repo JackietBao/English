@@ -178,6 +178,30 @@ Use do not + verb or does not + verb in the negative.
 
 ![image-20240327201658332](assets/05-U3L1_Lifestyle-Vocabulary_Grammar_and_Pronunciation/image-20240327201658332.png)
 
+`习题`
+
+![image-20240515182500015](assets/05-U3L1_Lifestyle-Vocabulary_Grammar_and_Pronunciation/image-20240515182500015.png)
+
+![image-20240515182730747](assets/05-U3L1_Lifestyle-Vocabulary_Grammar_and_Pronunciation/image-20240515182730747.png)
+
+![image-20240515182548410](assets/05-U3L1_Lifestyle-Vocabulary_Grammar_and_Pronunciation/image-20240515182548410.png)
+
+![image-20240515182742353](assets/05-U3L1_Lifestyle-Vocabulary_Grammar_and_Pronunciation/image-20240515182742353.png)
+
+![image-20240515182608288](assets/05-U3L1_Lifestyle-Vocabulary_Grammar_and_Pronunciation/image-20240515182608288.png)
+
+![image-20240515182755388](assets/05-U3L1_Lifestyle-Vocabulary_Grammar_and_Pronunciation/image-20240515182755388.png)
+
+
+
+![image-20240515182626068](assets/05-U3L1_Lifestyle-Vocabulary_Grammar_and_Pronunciation/image-20240515182626068.png)
+
+![image-20240515182804879](assets/05-U3L1_Lifestyle-Vocabulary_Grammar_and_Pronunciation/image-20240515182804879.png)
+
+![image-20240515182640147](assets/05-U3L1_Lifestyle-Vocabulary_Grammar_and_Pronunciation/image-20240515182640147.png)
+
+![image-20240515182818634](assets/05-U3L1_Lifestyle-Vocabulary_Grammar_and_Pronunciation/image-20240515182818634.png)
+
 ### 小结
 
 ![image-20240327201745035](assets/05-U3L1_Lifestyle-Vocabulary_Grammar_and_Pronunciation/image-20240327201745035.png)
