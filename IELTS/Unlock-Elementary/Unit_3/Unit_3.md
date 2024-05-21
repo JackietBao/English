@@ -120,7 +120,34 @@
 
 # Episode5
 
+`习题A`
 
+![image-20240521192840009](assets/Unit_3/image-20240521192840009.png)
+
+![image-20240521192845852](assets/Unit_3/image-20240521192845852.png)
+
+`习题B`
+
+![image-20240521192904864](assets/Unit_3/image-20240521192904864.png)
+
+![image-20240521192914656](assets/Unit_3/image-20240521192914656.png)
+
+![image-20240521192920288](assets/Unit_3/image-20240521192920288.png)
+
+![image-20240521192927972](assets/Unit_3/image-20240521192927972.png)
 
 # Episode6
 
+`习题A`
+
+![image-20240521193005754](assets/Unit_3/image-20240521193005754.png)
+
+![image-20240521193013051](assets/Unit_3/image-20240521193013051.png)
+
+`习题B`
+
+![image-20240521193030375](assets/Unit_3/image-20240521193030375.png)
+
+![image-20240521193038561](assets/Unit_3/image-20240521193038561.png)
+
+![image-20240521193046945](assets/Unit_3/image-20240521193046945.png)
