@@ -34,7 +34,7 @@ Tourism and fishing are the most important businesses in the Maldives. Many peop
 
 > ... OK then, so we're at the clock and that means it's the end of today's tour of the university campus. So, any questions? No? OK, so can you remember – what are we going to do now? Faisal?
 >
-> ... OK then, so we're at the clock and that means it's the end of today's tour of the university campus. So, any questions? No? OK, so can you remember – what are we going to do now? Faisal?
+> take a quiz？
 >
 > Yes, that's right!
 

@@ -219,3 +219,25 @@ mountain [ˈmaʊntɪn]mountain [ˈmaʊntɪn]
 ### 总结
 
 ![image-20240329211926383](assets/07-U4L1_Places-Vocabulary_Grammar_and_Pronunciation/image-20240329211926383.png)
+
+`习题A`
+
+![image-20240522204728354](assets/07-U4L1_Places-Vocabulary_Grammar_and_Pronunciation/image-20240522204728354.png)
+
+![image-20240522204921809](assets/07-U4L1_Places-Vocabulary_Grammar_and_Pronunciation/image-20240522204921809.png)
+
+![image-20240522204754990](assets/07-U4L1_Places-Vocabulary_Grammar_and_Pronunciation/image-20240522204754990.png)
+
+![image-20240522204939232](assets/07-U4L1_Places-Vocabulary_Grammar_and_Pronunciation/image-20240522204939232.png)
+
+![image-20240522204808544](assets/07-U4L1_Places-Vocabulary_Grammar_and_Pronunciation/image-20240522204808544.png)
+
+![image-20240522205004493](assets/07-U4L1_Places-Vocabulary_Grammar_and_Pronunciation/image-20240522205004493.png)
+
+![image-20240522204826949](assets/07-U4L1_Places-Vocabulary_Grammar_and_Pronunciation/image-20240522204826949.png)
+
+![image-20240522205022592](assets/07-U4L1_Places-Vocabulary_Grammar_and_Pronunciation/image-20240522205022592.png)
+
+![image-20240522204841179](assets/07-U4L1_Places-Vocabulary_Grammar_and_Pronunciation/image-20240522204841179.png)
+
+![image-20240522205033818](assets/07-U4L1_Places-Vocabulary_Grammar_and_Pronunciation/image-20240522205033818.png)
