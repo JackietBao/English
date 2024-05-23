@@ -84,11 +84,51 @@
 
 # Episode3
 
+`习题A`
 
+![image-20240523210640874](assets/Unit_4/image-20240523210640874.png)
+
+![image-20240523210702243](assets/Unit_4/image-20240523210702243.png)
+
+![image-20240523210710637](assets/Unit_4/image-20240523210710637.png)
+
+![image-20240523210731498](assets/Unit_4/image-20240523210731498.png)
+
+![image-20240523210802854](assets/Unit_4/image-20240523210802854.png)
+
+![image-20240523210811493](assets/Unit_4/image-20240523210811493.png)
+
+`习题B`
+
+![image-20240523210832164](assets/Unit_4/image-20240523210832164.png)
+
+![image-20240523210839263](assets/Unit_4/image-20240523210839263.png)
+
+![image-20240523210845177](assets/Unit_4/image-20240523210845177.png)
+
+`习题C`
+
+![image-20240523210906985](assets/Unit_4/image-20240523210906985.png)
+
+![image-20240523210913555](assets/Unit_4/image-20240523210913555.png)
+
+![image-20240523210919009](assets/Unit_4/image-20240523210919009.png)
 
 # Episode4
 
+`习题A`
 
+![image-20240523210959906](assets/Unit_4/image-20240523210959906.png)
+
+![image-20240523211005685](assets/Unit_4/image-20240523211005685.png)
+
+`习题B`
+
+![image-20240523211025248](assets/Unit_4/image-20240523211025248.png)
+
+![image-20240523211031870](assets/Unit_4/image-20240523211031870.png)
+
+![image-20240523211043740](assets/Unit_4/image-20240523211043740.png)
 
 # Episode5
 
