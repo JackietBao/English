@@ -131,3 +131,25 @@ If a syllable does not have stress, it is a weak vowel sound: faster, better, bi
 ### 小结
 
 ![image-20240331202650854](assets/09-U5L1_Sport-Vocabulary_Grammar_and_Pronunciation/image-20240331202650854.png)
+
+`习题A`
+
+![image-20240604203850205](assets/09-U5L1_Sport-Vocabulary_Grammar_and_Pronunciation/image-20240604203850205.png)
+
+![image-20240604203900143](assets/09-U5L1_Sport-Vocabulary_Grammar_and_Pronunciation/image-20240604203900143.png)
+
+![image-20240604203907242](assets/09-U5L1_Sport-Vocabulary_Grammar_and_Pronunciation/image-20240604203907242.png)
+
+![image-20240604203914408](assets/09-U5L1_Sport-Vocabulary_Grammar_and_Pronunciation/image-20240604203914408.png)
+
+![image-20240604203922689](assets/09-U5L1_Sport-Vocabulary_Grammar_and_Pronunciation/image-20240604203922689.png)
+
+![image-20240604203931365](assets/09-U5L1_Sport-Vocabulary_Grammar_and_Pronunciation/image-20240604203931365.png)
+
+![image-20240604203942549](assets/09-U5L1_Sport-Vocabulary_Grammar_and_Pronunciation/image-20240604203942549.png)
+
+![image-20240604203950636](assets/09-U5L1_Sport-Vocabulary_Grammar_and_Pronunciation/image-20240604203950636.png)
+
+![image-20240604204000422](assets/09-U5L1_Sport-Vocabulary_Grammar_and_Pronunciation/image-20240604204000422.png)
+
+![image-20240604204008365](assets/09-U5L1_Sport-Vocabulary_Grammar_and_Pronunciation/image-20240604204008365.png)
