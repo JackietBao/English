@@ -99,3 +99,21 @@ stadium[ˈsteɪdɪəm]体育场
 ### 小结
 
 ![image-20240401091353932](assets/13-U7L1_Homes_and_Buildings-Vocabulary_Grammar_and_Pronunciation/image-20240401091353932.png)
+
+`习题A`
+
+![image-20240610023511871](assets/13-U7L1_Homes_and_Buildings-Vocabulary_Grammar_and_Pronunciation/image-20240610023511871.png)
+
+![image-20240610023519495](assets/13-U7L1_Homes_and_Buildings-Vocabulary_Grammar_and_Pronunciation/image-20240610023519495.png)
+
+![image-20240610023528378](assets/13-U7L1_Homes_and_Buildings-Vocabulary_Grammar_and_Pronunciation/image-20240610023528378.png)
+
+![image-20240610023536673](assets/13-U7L1_Homes_and_Buildings-Vocabulary_Grammar_and_Pronunciation/image-20240610023536673.png)
+
+![image-20240610023543763](assets/13-U7L1_Homes_and_Buildings-Vocabulary_Grammar_and_Pronunciation/image-20240610023543763.png)
+
+![image-20240610023551846](assets/13-U7L1_Homes_and_Buildings-Vocabulary_Grammar_and_Pronunciation/image-20240610023551846.png)
+
+![image-20240610023601996](assets/13-U7L1_Homes_and_Buildings-Vocabulary_Grammar_and_Pronunciation/image-20240610023601996.png)
+
+![image-20240610023610649](assets/13-U7L1_Homes_and_Buildings-Vocabulary_Grammar_and_Pronunciation/image-20240610023610649.png)

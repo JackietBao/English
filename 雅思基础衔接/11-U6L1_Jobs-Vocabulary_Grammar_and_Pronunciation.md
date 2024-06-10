@@ -141,3 +141,36 @@ We can use should to give advice and think to give an opinion.
 ### 小结
 
 ![image-20240331212355161](assets/11-U6L1_Jobs-Vocabulary_Grammar_and_Pronunciation/image-20240331212355161.png)
+
+`习题A`
+
+![image-20240610022201700](assets/11-U6L1_Jobs-Vocabulary_Grammar_and_Pronunciation/image-20240610022201700.png)
+
+![image-20240610022211111](assets/11-U6L1_Jobs-Vocabulary_Grammar_and_Pronunciation/image-20240610022211111.png)
+
+![image-20240610022219098](assets/11-U6L1_Jobs-Vocabulary_Grammar_and_Pronunciation/image-20240610022219098.png)
+
+![image-20240610022227548](assets/11-U6L1_Jobs-Vocabulary_Grammar_and_Pronunciation/image-20240610022227548.png)
+
+![image-20240610022235612](assets/11-U6L1_Jobs-Vocabulary_Grammar_and_Pronunciation/image-20240610022235612.png)
+
+![image-20240610022244468](assets/11-U6L1_Jobs-Vocabulary_Grammar_and_Pronunciation/image-20240610022244468.png)
+
+![image-20240610022253307](assets/11-U6L1_Jobs-Vocabulary_Grammar_and_Pronunciation/image-20240610022253307.png)
+
+![image-20240610022303860](assets/11-U6L1_Jobs-Vocabulary_Grammar_and_Pronunciation/image-20240610022303860.png)
+
+![image-20240610022313714](assets/11-U6L1_Jobs-Vocabulary_Grammar_and_Pronunciation/image-20240610022313714.png)
+
+![image-20240610022325272](assets/11-U6L1_Jobs-Vocabulary_Grammar_and_Pronunciation/image-20240610022325272.png)
+
+
+
+
+
+
+
+
+
+
+
