@@ -229,3 +229,22 @@ chip [tʃɪp]炸薯条
 ### 小结
 
 ![image-20240402084655556](assets/15-U8L1_Food_and_Culture-Vocabulary_Grammar_and_Pronunciation/image-20240402084655556.png)
+
+`习题`
+
+![image-20240611210642799](assets/15-U8L1_Food_and_Culture-Vocabulary_Grammar_and_Pronunciation/image-20240611210642799.png)
+
+![image-20240611210650354](assets/15-U8L1_Food_and_Culture-Vocabulary_Grammar_and_Pronunciation/image-20240611210650354.png)
+
+![image-20240611210656828](assets/15-U8L1_Food_and_Culture-Vocabulary_Grammar_and_Pronunciation/image-20240611210656828.png)
+
+![image-20240611210706197](assets/15-U8L1_Food_and_Culture-Vocabulary_Grammar_and_Pronunciation/image-20240611210706197.png)
+
+![image-20240611210715533](assets/15-U8L1_Food_and_Culture-Vocabulary_Grammar_and_Pronunciation/image-20240611210715533.png)
+
+![image-20240611210723171](assets/15-U8L1_Food_and_Culture-Vocabulary_Grammar_and_Pronunciation/image-20240611210723171.png)
+
+![image-20240611210730598](assets/15-U8L1_Food_and_Culture-Vocabulary_Grammar_and_Pronunciation/image-20240611210730598.png)
+
+![image-20240611210739464](assets/15-U8L1_Food_and_Culture-Vocabulary_Grammar_and_Pronunciation/image-20240611210739464.png)
+
