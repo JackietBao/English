@@ -211,3 +211,15 @@ squid [skwɪd] 鱿鱼
 ### 小结
 
 ![image-20240403090610903](assets/17-U9L1_The_Animal_Kingdom-Vocabulary_Grammar_and_Pronunciation/image-20240403090610903.png)
+
+`习题A`
+
+![image-20240619230244980](assets/17-U9L1_The_Animal_Kingdom-Vocabulary_Grammar_and_Pronunciation/image-20240619230244980.png)
+
+![image-20240619230254610](assets/17-U9L1_The_Animal_Kingdom-Vocabulary_Grammar_and_Pronunciation/image-20240619230254610.png)
+
+![image-20240619230307937](assets/17-U9L1_The_Animal_Kingdom-Vocabulary_Grammar_and_Pronunciation/image-20240619230307937.png)
+
+![image-20240619230319075](assets/17-U9L1_The_Animal_Kingdom-Vocabulary_Grammar_and_Pronunciation/image-20240619230319075.png)
+
+![image-20240619230328696](assets/17-U9L1_The_Animal_Kingdom-Vocabulary_Grammar_and_Pronunciation/image-20240619230328696.png)
