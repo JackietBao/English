@@ -228,25 +228,12 @@ We use possessive determiners before a noun.
 >
 > She likes in ....
 
+### 公开课
 
+Today I would like to talk about a famous woman in China,her name is ......
 
+She is a ......, I knew her from a ......
 
+And about his/her family,he/she......
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+She lives in......
