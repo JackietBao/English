@@ -50,6 +50,38 @@ My name's Jack and I'm from China. I'm 21 and I'm a student. I have one sister. 
 It's your turn 轮到你了
 ```
 
+##### **自我介绍**
+
+```
+1. 自我介绍 I'm Jack. I'm a student and network security engineer. I’m from China, and my hometown is Wuhan, Hubei.
+
+2. 关于我的家庭 I have one sister. My mother is a hotel manager, and my father is also a hotel manager. They both work hard to manage our family hotel in Shanghai.
+
+3. 我的未来计划 I want to get a PhD and continue learning advanced skills in network security and IoV (Internet of Vehicles). My goal is to contribute to the field of technology and make a meaningful impact.
+```
+
+```
+1. 自我介绍
+I'm Sarah. I'm an English teacher. I’m from the United States, and my hometown is Boston.
+
+2. 关于我的家庭
+I have two brothers. My mother is a nurse, and my father is an engineer. They have always encouraged me to pursue my dreams and value education.
+
+3. 我的未来计划
+I want to travel to different countries and teach English. My goal is to help students around the world learn English and experience new cultures.
+```
+
+```
+1. 自我介绍
+I'm David. I'm a software developer. I’m from Canada, and my hometown is Toronto.
+
+2. 关于我的家庭
+I have a younger sister. My mother is a graphic designer, and my father is a chef. They have always been creative and supportive, which inspired me to pursue a career in technology.
+
+3. 我的未来计划
+I want to create innovative software solutions that make people's lives easier. In the future, I hope to start my own tech company and work on projects that impact society in a positive way.
+```
+
 **介绍别人**
 
 ```
